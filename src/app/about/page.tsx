@@ -132,10 +132,24 @@ export default function AboutPage() {
             <div className="flex gap-6 pb-8 border-b border-[var(--border-subtle)]">
               <span className="text-caption shrink-0 w-[80px] pt-0.5">Apr 8</span>
               <div>
+                <p className="text-[15px] font-medium mb-1">SEO + AI visibility optimization</p>
+                <p className="text-[14px] text-[var(--text-secondary)] leading-relaxed">
+                  Ran full GEO (Generative Engine Optimization) audit. Fixed Cloudflare blocking all AI crawlers
+                  (GPTBot, ClaudeBot, PerplexityBot) via robots.txt. Submitted sitemap to Google Search Console
+                  and Bing Webmaster Tools. Added FAQ schema to comparison page for &quot;People also ask&quot; targeting.
+                  Configured llms.txt with complete site index for AI agent discovery. Every page now has
+                  MedicalWebPage, FAQPage, or CollectionPage JSON-LD schema.
+                </p>
+              </div>
+            </div>
+
+            <div className="flex gap-6 py-8 border-b border-[var(--border-subtle)]">
+              <span className="text-caption shrink-0 w-[80px] pt-0.5">Apr 8</span>
+              <div>
                 <p className="text-[15px] font-medium mb-1">Comparison page + 5 more peptides</p>
                 <p className="text-[14px] text-[var(--text-secondary)] leading-relaxed">
-                  Added Semaglutide vs Tirzepatide vs Retatrutide comparison page.
-                  New peptides: DSIP, Orforglipron, Suramin, CJC-1295 DAC, Thymalin.
+                  Added Semaglutide vs Tirzepatide vs Retatrutide comparison page — targeting high-volume
+                  search queries. New peptides: DSIP, Orforglipron, Suramin, CJC-1295 DAC, Thymalin.
                   Full peptides index page. 42 peptides, 118 pages total.
                 </p>
               </div>
