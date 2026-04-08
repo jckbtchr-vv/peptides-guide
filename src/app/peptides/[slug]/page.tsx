@@ -130,7 +130,7 @@ export default async function PeptidePage({
             </p>
           )}
           <p className="text-[11px] text-[var(--text-tertiary)] mt-4 uppercase tracking-[0.08em]">
-            Prompted by Jack Butcher &middot; AI-authored by Claude &middot; Research-sourced
+            Prompted by Jack Butcher (Visualize Value) &middot; AI-authored by Claude &middot; Research-sourced
           </p>
         </header>
 
