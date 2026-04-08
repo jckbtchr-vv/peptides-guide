@@ -31,6 +31,18 @@ const comparisons = [
     description: 'Focus vs calm. BDNF upregulation vs GABA modulation — the Russian nootropic stack.',
     category: 'Cognitive',
   },
+  {
+    href: '/compare/cjc-1295-dac-vs-no-dac',
+    title: 'CJC-1295: DAC vs No-DAC',
+    description: 'Same peptide, two versions. Pulsatile vs continuous GH release — convenience vs physiology.',
+    category: 'Body Composition',
+  },
+  {
+    href: '/compare/epitalon-vs-ghk-cu',
+    title: 'Epitalon vs GHK-Cu',
+    description: 'Telomerase activation vs gene expression modulation. Two anti-aging approaches compared.',
+    category: 'Longevity',
+  },
 ];
 
 export default function CompareIndexPage() {

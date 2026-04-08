@@ -14,6 +14,7 @@ export interface Category {
   headline: string;
   description: string;
   metaDescription: string;
+  longDescription: string;
   peptideSlugs: string[];
 }
 

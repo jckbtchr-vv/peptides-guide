@@ -132,6 +132,19 @@ export default function AboutPage() {
             <div className="flex gap-6 pb-8 border-b border-[var(--border-subtle)]">
               <span className="text-caption shrink-0 w-[80px] pt-0.5">Apr 8</span>
               <div>
+                <p className="text-[15px] font-medium mb-1">Peptide Finder quiz, 2 more comparisons, category deep dives</p>
+                <p className="text-[14px] text-[var(--text-secondary)] leading-relaxed">
+                  Interactive &quot;What should I use?&quot; quiz that recommends peptides based on your goals.
+                  2 new comparisons: CJC-1295 DAC vs No-DAC, Epitalon vs GHK-Cu. 6 total comparisons now.
+                  Every category page now has 200-300 words of substantive overview content.
+                  Compare page restructured as an index listing all comparisons.
+                </p>
+              </div>
+            </div>
+
+            <div className="flex gap-6 py-8 border-b border-[var(--border-subtle)]">
+              <span className="text-caption shrink-0 w-[80px] pt-0.5">Apr 8</span>
+              <div>
                 <p className="text-[15px] font-medium mb-1">ELI5 mode</p>
                 <p className="text-[14px] text-[var(--text-secondary)] leading-relaxed">
                   Every peptide page now has a TLDR/ELI5 toggle. TLDR gives you the dense, factual version.

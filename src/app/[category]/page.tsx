@@ -61,6 +61,15 @@ export default async function CategoryPage({
         <p className="text-body max-w-xl">{cat.description}</p>
       </header>
 
+      {/* Category Overview */}
+      <section className="py-16 border-b border-[var(--border-subtle)]">
+        <div className="prose-content max-w-2xl">
+          {cat.longDescription.split('\n\n').map((p, i) => (
+            <p key={i}>{p}</p>
+          ))}
+        </div>
+      </section>
+
       {/* Peptide List */}
       <section className="py-16">
         {peptides.length > 0 ? (
