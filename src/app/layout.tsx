@@ -1,4 +1,5 @@
 import type { Metadata } from 'next';
+import Script from 'next/script';
 import { DM_Mono } from 'next/font/google';
 import { ThemeProvider } from '@/components/layout/ThemeProvider';
 import { Header } from '@/components/layout/Header';
@@ -45,6 +46,14 @@ export default function RootLayout({
 }>) {
   return (
     <html lang="en" className={dmMono.variable} suppressHydrationWarning>
+      <head>
+        <Script
+          defer
+          src="https://umami-production-7d35.up.railway.app/script.js"
+          data-website-id="48bd73eb-0816-4c2a-bd78-fb62cc4cf7f6"
+          strategy="afterInteractive"
+        />
+      </head>
       <body className="min-h-screen flex flex-col antialiased">
         <ThemeProvider>
           <Header />
