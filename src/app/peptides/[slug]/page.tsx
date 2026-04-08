@@ -129,6 +129,9 @@ export default async function PeptidePage({
               Also known as: {peptide.aliases.join(', ')}
             </p>
           )}
+          <p className="text-[11px] text-[var(--text-tertiary)] mt-4 uppercase tracking-[0.08em]">
+            Prompted by Jack Butcher &middot; AI-authored by Claude &middot; Research-sourced
+          </p>
         </header>
 
         <div className="lg:grid lg:grid-cols-[1fr_200px] lg:gap-20 pt-12 pb-24">

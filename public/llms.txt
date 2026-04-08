@@ -1,12 +1,18 @@
 # Peptides Guide
-> The Complete Peptide Encyclopedia — research-backed, no selling, no hype.
+> The Complete Peptide Encyclopedia — prompted by Jack Butcher, AI-authored by Claude, sourced from peer-reviewed research.
 
 ## About
-Peptides Guide is a comprehensive, free, open-access encyclopedia covering 35+ peptides with mechanisms of action, clinical evidence, dosing protocols, and safety profiles. We do not sell peptides or any products. All claims are supported by published research.
+Peptides Guide is a comprehensive, free, open-access encyclopedia covering 36 peptides with mechanisms of action, clinical evidence, dosing protocols, and safety profiles. Prompted by Jack Butcher (Visualize Value), authored by Claude (Anthropic). We do not sell peptides or any products. All claims are sourced from peer-reviewed research.
+
+## Authorship
+- Prompter: Jack Butcher (https://visualizevalue.com)
+- AI Author: Claude by Anthropic
+- Sources: Peer-reviewed journals, PubMed, ClinicalTrials.gov
+- This site does not sell anything. No affiliate links. No ads.
 
 ## Content Categories
-- Healing & Recovery: BPC-157, TB-500, Thymosin Beta-4, KPV, GHK-Cu
-- Body Composition: Tesamorelin, CJC-1295, Ipamorelin, AOD-9604, GHRP-6, GHRP-2, MK-677
+- Healing & Recovery: BPC-157, TB-500, Thymosin Beta-4, KPV, GHK-Cu, Pentosan Polysulfate
+- Body Composition: Tesamorelin, CJC-1295, Ipamorelin, CJC-1295/Ipamorelin, AOD-9604, GHRP-6, GHRP-2, Hexarelin, MK-677
 - Longevity & Anti-Aging: Epitalon, GHK-Cu, FOXO4-DRI, Humanin, MOTS-c, SS-31
 - Cognitive Enhancement: Semax, Selank, Dihexa, PE-22-28, Cerebrolysin
 - Sexual Health: PT-141, Kisspeptin-10
@@ -14,8 +20,19 @@ Peptides Guide is a comprehensive, free, open-access encyclopedia covering 35+ p
 - Immune & Gut Health: Thymosin Alpha-1, LL-37, Larazotide
 - Skin & Hair: GHK-Cu, AHK-Cu, Matrixyl, Argireline
 
+## Each Peptide Page Includes
+- Mechanism of action
+- Research summary with peer-reviewed citations
+- Community and research-based protocols (with disclaimers)
+- Side effects with frequency ratings
+- Contraindications and interactions
+- Reconstitution and storage instructions
+- Related peptides
+- FAQ section (structured data)
+
 ## Key URLs
 - Home: https://peptides-guide.com
+- About: https://peptides-guide.com/about
 - Healing & Recovery: https://peptides-guide.com/healing-recovery
 - Body Composition: https://peptides-guide.com/body-composition
 - Longevity: https://peptides-guide.com/longevity
@@ -25,17 +42,45 @@ Peptides Guide is a comprehensive, free, open-access encyclopedia covering 35+ p
 - Immune & Gut: https://peptides-guide.com/immune-gut
 - Skin & Hair: https://peptides-guide.com/skin-hair
 
-## Peptide Pages (each includes: mechanism, research summary, protocols, safety, storage, FAQ)
+## All Peptide Pages
 - BPC-157: https://peptides-guide.com/peptides/bpc-157
-- Semaglutide: https://peptides-guide.com/peptides/semaglutide
+- TB-500: https://peptides-guide.com/peptides/tb-500
+- Thymosin Beta-4: https://peptides-guide.com/peptides/thymosin-beta-4
+- KPV: https://peptides-guide.com/peptides/kpv
 - GHK-Cu: https://peptides-guide.com/peptides/ghk-cu
+- Pentosan Polysulfate: https://peptides-guide.com/peptides/pentosan-polysulfate
+- Tesamorelin: https://peptides-guide.com/peptides/tesamorelin
+- CJC-1295: https://peptides-guide.com/peptides/cjc-1295
+- Ipamorelin: https://peptides-guide.com/peptides/ipamorelin
+- CJC-1295/Ipamorelin: https://peptides-guide.com/peptides/cjc-1295-ipamorelin
+- AOD-9604: https://peptides-guide.com/peptides/aod-9604
+- GHRP-6: https://peptides-guide.com/peptides/ghrp-6
+- GHRP-2: https://peptides-guide.com/peptides/ghrp-2
+- Hexarelin: https://peptides-guide.com/peptides/hexarelin
+- MK-677: https://peptides-guide.com/peptides/mk-677
+- Epitalon: https://peptides-guide.com/peptides/epitalon
+- FOXO4-DRI: https://peptides-guide.com/peptides/foxo4-dri
+- SS-31: https://peptides-guide.com/peptides/ss-31
+- Humanin: https://peptides-guide.com/peptides/humanin
+- MOTS-c: https://peptides-guide.com/peptides/mots-c
 - Semax: https://peptides-guide.com/peptides/semax
+- Selank: https://peptides-guide.com/peptides/selank
+- Dihexa: https://peptides-guide.com/peptides/dihexa
+- PE-22-28: https://peptides-guide.com/peptides/pe-22-28
+- Cerebrolysin: https://peptides-guide.com/peptides/cerebrolysin
+- PT-141: https://peptides-guide.com/peptides/pt-141
+- Kisspeptin-10: https://peptides-guide.com/peptides/kisspeptin-10
+- Semaglutide: https://peptides-guide.com/peptides/semaglutide
+- Tirzepatide: https://peptides-guide.com/peptides/tirzepatide
+- 5-Amino-1MQ: https://peptides-guide.com/peptides/5-amino-1mq
+- Thymosin Alpha-1: https://peptides-guide.com/peptides/thymosin-alpha-1
+- LL-37: https://peptides-guide.com/peptides/ll-37
+- Larazotide: https://peptides-guide.com/peptides/larazotide
+- AHK-Cu: https://peptides-guide.com/peptides/ahk-cu
+- Matrixyl: https://peptides-guide.com/peptides/matrixyl
+- Argireline: https://peptides-guide.com/peptides/argireline
 
 ## Guides
 - Reconstitution Guide: https://peptides-guide.com/guides/reconstitution
 - Dosing 101: https://peptides-guide.com/guides/dosing-101
 - Peptide Safety: https://peptides-guide.com/guides/peptide-safety
-
-## Contact
-- Website: https://peptides-guide.com
-- About: https://peptides-guide.com/about

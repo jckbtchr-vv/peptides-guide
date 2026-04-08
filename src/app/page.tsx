@@ -115,11 +115,11 @@ export default function Home() {
                 fontWeight: 700,
               }}
             >
-              Research-backed.
+              Written by AI.
               <br />
-              No affiliate links. No ads.
+              Sourced from research.
               <br />
-              <span className="text-[var(--text-tertiary)]">Just the science.</span>
+              <span className="text-[var(--text-tertiary)]">No one&apos;s selling you anything.</span>
             </h2>
           </div>
           <div className="flex flex-wrap gap-12 mt-12 text-caption">
