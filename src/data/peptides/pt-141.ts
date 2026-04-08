@@ -16,6 +16,8 @@ export const pt141: Peptide = {
   status: 'approved',
   regulatoryNote: 'FDA-approved in June 2019 as Vyleesi (bremelanotide injection) for the treatment of hypoactive sexual desire disorder (HSDD) in premenopausal women. Manufactured by AMAG Pharmaceuticals (later Covis Pharma).',
 
+  tldr: 'FDA-approved as Vyleesi for hypoactive sexual desire disorder in women. Works through melanocortin receptors in the brain — a fundamentally different mechanism than PDE5 inhibitors like Viagra.',
+
   overview:
     'PT-141 (bremelanotide) is a synthetic cyclic heptapeptide and melanocortin receptor agonist that is FDA-approved for the treatment of hypoactive sexual desire disorder (HSDD) in premenopausal women. It is the first and only FDA-approved medication that works through the central nervous system melanocortin pathway to address sexual dysfunction.\n\nPT-141 was originally developed from Melanotan II, a peptide designed for tanning. During clinical trials for Melanotan II, researchers observed that subjects reported significant increases in sexual arousal as an unexpected side effect. This led to the isolation and development of bremelanotide as a targeted sexual dysfunction therapy.\n\nUnlike phosphodiesterase inhibitors (such as sildenafil/Viagra) that work on vascular mechanisms, PT-141 acts centrally in the brain through melanocortin-4 receptors (MC4R) in the hypothalamus. This mechanism addresses the neurological component of sexual desire rather than simply enhancing blood flow, making it effective for desire-based dysfunction rather than purely mechanical/arousal dysfunction.\n\nThe drug is marketed as Vyleesi and is self-administered via subcutaneous autoinjector at least 45 minutes before anticipated sexual activity.',
 

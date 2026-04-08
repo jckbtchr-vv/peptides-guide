@@ -16,6 +16,8 @@ export const epitalon: Peptide = {
   status: 'research',
   regulatoryNote: 'Not FDA-approved for human use. Epitalon is a research compound primarily studied in Russia. It has not been evaluated by the FDA or EMA for any clinical indication.',
 
+  tldr: 'A synthetic tetrapeptide researched for telomerase activation by Khavinson\'s group over 30 years. Animal studies show lifespan extension, but evidence comes primarily from one research group and lacks Western replication.',
+
   overview:
     'Epitalon (also spelled Epithalon) is a synthetic tetrapeptide (Ala-Glu-Asp-Gly) that represents the active sequence of epithalamin, a polypeptide extract of the bovine pineal gland. It was developed and extensively researched by Professor Vladimir Khavinson at the Saint Petersburg Institute of Bioregulation and Gerontology in Russia over a research program spanning more than 30 years.\n\nThe primary research interest in epitalon centers on its reported ability to activate the enzyme telomerase, which adds telomeric repeats (TTAGGG) to the ends of chromosomes. Telomere shortening is a fundamental mechanism of cellular aging — each cell division erodes telomere length until a critical threshold triggers cellular senescence or apoptosis. By reactivating telomerase in somatic cells, epitalon theoretically extends the replicative lifespan of cells.\n\nAdditionally, epitalon has been studied for its effects on melatonin production, neuroendocrine regulation, and antioxidant defense systems. Khavinson\'s research group has published studies reporting lifespan extension in animal models and improvements in biomarkers of aging in elderly human subjects treated with epithalamin and epitalon.',
 

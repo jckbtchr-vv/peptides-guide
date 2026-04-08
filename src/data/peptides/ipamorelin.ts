@@ -16,6 +16,8 @@ export const ipamorelin: Peptide = {
   status: 'research',
   regulatoryNote: 'Not FDA-approved for human use. Ipamorelin is a research compound. It has been studied in clinical trials for post-operative ileus but has not received regulatory approval.',
 
+  tldr: 'The most selective growth hormone secretagogue — stimulates GH release with minimal effects on cortisol, prolactin, or appetite. The preferred GHRP for protocols prioritizing clean GH elevation.',
+
   overview:
     'Ipamorelin is a synthetic pentapeptide growth hormone secretagogue that acts as a selective agonist of the ghrelin receptor (GHS-R1a). Developed by Novo Nordisk in the late 1990s, it is widely regarded as one of the most selective GH-releasing peptides available, with minimal effects on cortisol, prolactin, and aldosterone release — a significant advantage over earlier secretagogues like GHRP-6 and GHRP-2.\n\nIpamorelin stimulates GH release from the anterior pituitary in a dose-dependent manner while preserving the natural pulsatile pattern of GH secretion. Unlike hexarelin or GHRP-6, ipamorelin does not significantly stimulate appetite (no strong ghrelin-like hunger effect), making it more suitable for body composition protocols where appetite stimulation is undesirable.\n\nIts favorable selectivity profile and clean side effect profile have made ipamorelin one of the most widely used peptides in the growth hormone optimization space, particularly in combination with CJC-1295 without DAC (Mod GRF 1-29).',
 

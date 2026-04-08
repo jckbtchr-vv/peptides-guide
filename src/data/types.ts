@@ -65,6 +65,7 @@ export interface Peptide {
   status: 'research' | 'clinical-trials' | 'approved' | 'experimental';
   regulatoryNote?: string;
 
+  tldr: string;
   overview: string;
   mechanismOfAction: string;
   researchSummary: string;

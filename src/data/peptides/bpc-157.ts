@@ -16,6 +16,8 @@ export const bpc157: Peptide = {
   status: 'research',
   regulatoryNote: 'Not FDA-approved for human use. Research compound only.',
 
+  tldr: 'A gastric pentadecapeptide with over 100 animal studies showing accelerated healing of tendons, muscles, gut lining, and other tissues. Uniquely stable in stomach acid, making it one of few peptides viable for oral use.',
+
   overview:
     'BPC-157 is a synthetic pentadecapeptide derived from a protective protein found in human gastric juice. It consists of 15 amino acids and is a partial sequence of body protection compound (BPC) that is naturally produced in the stomach.\n\nSince its discovery, BPC-157 has been extensively studied in animal models for its remarkable tissue-healing properties. Research demonstrates effects on tendon, muscle, ligament, bone, and gut healing, along with protective effects on the liver, brain, and cardiovascular system.\n\nUnlike most peptides, BPC-157 is stable in human gastric juice, which gives it the unique property of being potentially effective via oral administration — a significant advantage over peptides that require injection.',
 

@@ -16,6 +16,8 @@ export const selank: Peptide = {
   status: 'approved',
   regulatoryNote: 'Approved in Russia as an anxiolytic and nootropic medication. Not FDA-approved in the United States. Not a controlled substance.',
 
+  tldr: 'A synthetic tuftsin analog approved in Russia as an anxiolytic. Modulates GABA and serotonin systems to reduce anxiety without sedation or cognitive impairment — often paired with Semax.',
+
   overview:
     'Selank is a synthetic heptapeptide derived from tuftsin (Thr-Lys-Pro-Arg), an endogenous immunomodulatory peptide, with the addition of a Pro-Gly-Pro C-terminal sequence for enhanced metabolic stability. It was developed at the Institute of Molecular Genetics of the Russian Academy of Sciences, the same laboratory that created Semax.\n\nApproved for clinical use in Russia since 2009, Selank is prescribed as an anxiolytic and nootropic. It is notable for producing anxiolytic effects comparable to benzodiazepines without sedation, cognitive impairment, dependence, or withdrawal symptoms — limitations that characterize conventional anti-anxiety medications.\n\nSelank bridges two pharmacological domains: it functions as both an anxiolytic and an immunomodulator. Its parent molecule tuftsin is a naturally occurring tetrapeptide released from the Fc region of IgG, linking the immune and nervous systems through a shared peptide signaling pathway.',
 

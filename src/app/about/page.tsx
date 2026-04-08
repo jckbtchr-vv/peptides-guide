@@ -29,7 +29,7 @@ export default function AboutPage() {
           <section>
             <h2 className="text-subhead mb-4">Who Made This</h2>
             <p>
-              This project was prompted by <a href="https://visualizevalue.com" className="underline underline-offset-2 hover:text-[var(--text-primary)] transition-colors">Jack Butcher</a> (Visualize Value)
+              This project was prompted by <a href="https://visualizevalue.com" className="underline underline-offset-2 hover:text-[var(--text-primary)] transition-colors">Jack Butcher</a>{' '}(Visualize Value)
               and authored by Claude, Anthropic&apos;s AI assistant. Every peptide profile,
               every mechanism description, every protocol summary — prompted by a human,
               written by AI, sourced from published research.

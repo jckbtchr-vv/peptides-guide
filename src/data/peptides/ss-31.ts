@@ -16,6 +16,8 @@ export const ss31: Peptide = {
   status: 'clinical-trials',
   regulatoryNote: 'Investigational drug developed by Stealth BioTherapeutics. Has undergone multiple Phase 2 and Phase 3 clinical trials. Received Orphan Drug Designation from the FDA for Barth syndrome. Not yet FDA-approved for any indication.',
 
+  tldr: 'A mitochondria-targeted peptide that stabilizes cardiolipin in the inner mitochondrial membrane. In clinical trials for Barth syndrome and heart failure, with FDA Orphan Drug Designation.',
+
   overview:
     'SS-31 (elamipretide) is a synthetic mitochondria-targeted tetrapeptide developed by Dr. Hazel Szeto and Dr. Peter Bhatt Schiller at Weill Cornell Medical College. It is part of the Szeto-Schiller (SS) peptide family, a series of cell-permeable peptides that concentrate in the inner mitochondrial membrane at concentrations 1,000-5,000 fold higher than the extracellular space.\n\nUnlike most mitochondria-targeted compounds that rely on positive charge to accumulate in the matrix, SS-31 selectively binds to cardiolipin — a unique phospholipid found almost exclusively in the inner mitochondrial membrane. Cardiolipin is essential for the structural organization and function of electron transport chain complexes and ATP synthase.\n\nSS-31 has been the subject of extensive clinical development by Stealth BioTherapeutics. It has progressed through multiple clinical trials for Barth syndrome (a rare genetic cardiomyopathy caused by cardiolipin remodeling deficiency), heart failure, age-related macular degeneration, primary mitochondrial myopathy, and renal injury. It represents one of the most advanced mitochondria-targeted therapeutics in clinical development.',
 

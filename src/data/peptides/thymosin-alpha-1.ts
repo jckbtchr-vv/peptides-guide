@@ -16,6 +16,8 @@ export const thymosinAlpha1: Peptide = {
   status: 'approved',
   regulatoryNote: 'Approved in over 35 countries (marketed as Zadaxin/Thymalfasin) for hepatitis B, hepatitis C, and as an immune adjuvant. Not FDA-approved in the United States, though it has received Orphan Drug designation.',
 
+  tldr: 'An immune-modulating peptide approved in 35+ countries as Zadaxin. Used clinically for hepatitis B/C and as a cancer therapy adjuvant through T-cell and dendritic cell activation.',
+
   overview:
     'Thymosin Alpha-1 (Tα1) is a 28-amino-acid peptide originally isolated from thymic tissue (Thymosin Fraction 5) by Allan Goldstein at the George Washington University in the 1970s. It is a naturally occurring peptide produced by the thymus gland, which plays a central role in immune system maturation and regulation.\n\nTα1 is one of the most clinically validated peptides in existence. It has been approved for medical use in over 35 countries — primarily in Asia, South America, and parts of Europe — under the brand name Zadaxin (manufactured by SciClone Pharmaceuticals). Its approved indications include chronic hepatitis B, chronic hepatitis C (as adjunct therapy), and as an immune system enhancer in immunocompromised patients.\n\nThe peptide works by enhancing the function of the adaptive immune system, particularly T-cell maturation and activation, dendritic cell function, and natural killer cell activity. It has been extensively studied as an adjuvant therapy in cancer treatment, viral hepatitis, and immunodeficiency conditions.',
 

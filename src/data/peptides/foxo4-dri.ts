@@ -16,6 +16,8 @@ export const foxo4dri: Peptide = {
   status: 'experimental',
   regulatoryNote: 'Experimental research compound. Not approved for human use in any country. Preclinical data only. Developed by Dr. Peter de Keizer at Erasmus University Medical Center.',
 
+  tldr: 'A senolytic peptide that selectively induces apoptosis in senescent cells by disrupting the FOXO4-p53 interaction. One mouse study showed restored fitness and fur density in aged mice.',
+
   overview:
     'FOXO4-DRI is a senolytic peptide — a compound designed to selectively eliminate senescent cells. Cellular senescence is a state in which cells permanently exit the cell cycle but resist apoptosis (programmed cell death), accumulating in tissues with age and secreting a cocktail of inflammatory factors known as the senescence-associated secretory phenotype (SASP).\n\nDeveloped by Dr. Peter de Keizer and colleagues at Erasmus University Medical Center in the Netherlands, FOXO4-DRI works by disrupting a specific molecular interaction that keeps senescent cells alive. In senescent cells, the transcription factor FOXO4 binds to p53 (the tumor suppressor "guardian of the genome"), sequestering p53 away from mitochondria where it would trigger apoptosis. By outcompeting endogenous FOXO4 for p53 binding, FOXO4-DRI frees p53 to trigger apoptosis selectively in senescent cells.\n\nThe compound uses D-retro-inverso (DRI) technology — the peptide is synthesized with D-amino acids in reverse sequence, creating a mirror-image molecule that mimics the binding surface of natural FOXO4 but resists proteolytic degradation. This dramatically extends its biological half-life compared to L-amino acid peptides.',
 

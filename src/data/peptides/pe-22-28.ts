@@ -16,6 +16,8 @@ export const pe2228: Peptide = {
   status: 'experimental',
   regulatoryNote: 'Experimental research compound. Not approved for human use in any country. All data is preclinical. Available through research chemical suppliers.',
 
+  tldr: 'A spadin analog that blocks TREK-1 potassium channels to produce rapid antidepressant-like effects in animal models. Increases BDNF and promotes neuroplasticity through a novel mechanism.',
+
   overview:
     'PE-22-28 is a synthetic peptide derived from spadin, which is itself a fragment of the sortilin propeptide (the prodomain of the neurotensin receptor-3/sortilin). It functions as a selective blocker of TREK-1 (TWIK-related potassium channel-1), a two-pore domain potassium channel that has emerged as a novel target for antidepressant and nootropic development.\n\nThe TREK-1 channel was identified as a target for antidepressant therapy when TREK-1 knockout mice exhibited a depression-resistant phenotype. Spadin, a natural peptide fragment that blocks TREK-1, was subsequently shown to produce antidepressant-like effects in rodent models within 4 days — dramatically faster than the 2-4 week onset typical of SSRIs.\n\nPE-22-28 was developed as a shorter, more stable analog of spadin with improved pharmacological properties. It represents a fragment of the original 17-amino acid spadin molecule, retaining TREK-1 blocking activity while offering better stability and potentially improved bioavailability. Research interest centers on its rapid-onset antidepressant-like effects and neuroplasticity-promoting properties.',
 

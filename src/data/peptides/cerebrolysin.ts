@@ -15,6 +15,8 @@ export const cerebrolysin: Peptide = {
   status: 'approved',
   regulatoryNote: 'Approved for clinical use in over 40 countries including Austria, Germany, Russia, China, South Korea, and other European and Asian nations. Not FDA-approved in the United States. Manufactured by EVER Neuro Pharma (formerly Ebewe Pharma), Austria.',
 
+  tldr: 'A porcine brain-derived peptide preparation approved in 40+ countries for stroke recovery and cognitive disorders. Contains a mix of neurotrophic factors mimicking BDNF, NGF, and GDNF activity.',
+
   overview:
     'Cerebrolysin is a porcine (pig) brain-derived peptide preparation consisting of low-molecular-weight neuropeptides and free amino acids obtained through standardized enzymatic proteolysis of purified pig brain proteins. It is not a single peptide but a complex, standardized mixture designed to mimic the action of endogenous neurotrophic factors.\n\nDeveloped in Austria and used clinically since the 1970s, Cerebrolysin is one of the most extensively studied neuropeptide preparations in the world, with clinical use spanning stroke recovery, traumatic brain injury, Alzheimer\'s disease, and other neurodegenerative conditions. It has been the subject of over 200 clinical studies.\n\nCerebrolysin\'s unique composition includes peptide fragments that functionally resemble BDNF (brain-derived neurotrophic factor), GDNF (glial cell line-derived neurotrophic factor), NGF (nerve growth factor), and CNTF (ciliary neurotrophic factor). This multi-target neurotrophic profile is central to its therapeutic rationale — rather than targeting a single pathway, it provides broad neurotrophic support.',
 

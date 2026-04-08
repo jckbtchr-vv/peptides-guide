@@ -16,6 +16,8 @@ export const aod9604: Peptide = {
   status: 'research',
   regulatoryNote: 'Not FDA-approved for human use. AOD-9604 has GRAS (Generally Recognized As Safe) status from the FDA for use as a food substance, but this does not constitute approval as a therapeutic drug.',
 
+  tldr: 'A fragment of human growth hormone (amino acids 176-191) that stimulates lipolysis without affecting IGF-1 levels or blood glucose. Targets fat metabolism without the broader effects of full GH.',
+
   overview:
     'AOD-9604 is a synthetic peptide corresponding to a modified fragment of the C-terminal region of human growth hormone (amino acids 176-191), with an added tyrosine residue at the N-terminus. It was specifically designed to isolate the lipolytic (fat-burning) activity of growth hormone from its growth-promoting and diabetogenic effects.\n\nDeveloped initially by Metabolic Pharmaceuticals in Australia, AOD-9604 was the subject of significant clinical research in the early 2000s for obesity treatment. The key proposition is that it stimulates fat breakdown and inhibits new fat formation (lipogenesis) without the adverse metabolic effects of full-length GH — specifically, it does not elevate IGF-1, does not impair insulin sensitivity, and does not promote growth of tissues or tumors.\n\nDespite promising preclinical results, Phase IIb clinical trials for obesity did not demonstrate sufficient efficacy over placebo at the doses tested, and clinical development for obesity was discontinued. However, AOD-9604 has since been explored for cartilage repair and osteoarthritis applications and maintains significant interest in the peptide research community.',
 

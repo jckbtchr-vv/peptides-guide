@@ -134,6 +134,25 @@ export default async function PeptidePage({
           </p>
         </header>
 
+        {/* TLDR */}
+        {peptide.tldr && (
+          <div className="py-10 border-b border-[var(--border-subtle)]">
+            <p className="text-caption mb-3">TLDR</p>
+            <p
+              className="max-w-2xl"
+              style={{
+                fontSize: 'clamp(18px, 2.5vw, 22px)',
+                lineHeight: '1.45',
+                letterSpacing: '-0.015em',
+                fontWeight: 500,
+                color: 'var(--text-primary)',
+              }}
+            >
+              {peptide.tldr}
+            </p>
+          </div>
+        )}
+
         <div className="lg:grid lg:grid-cols-[1fr_200px] lg:gap-20 pt-12 pb-24">
           {/* Main content */}
           <div className="min-w-0">
