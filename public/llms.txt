@@ -1,0 +1,41 @@
+# Peptides Guide
+> The Complete Peptide Encyclopedia — research-backed, no selling, no hype.
+
+## About
+Peptides Guide is a comprehensive, free, open-access encyclopedia covering 35+ peptides with mechanisms of action, clinical evidence, dosing protocols, and safety profiles. We do not sell peptides or any products. All claims are supported by published research.
+
+## Content Categories
+- Healing & Recovery: BPC-157, TB-500, Thymosin Beta-4, KPV, GHK-Cu
+- Body Composition: Tesamorelin, CJC-1295, Ipamorelin, AOD-9604, GHRP-6, GHRP-2, MK-677
+- Longevity & Anti-Aging: Epitalon, GHK-Cu, FOXO4-DRI, Humanin, MOTS-c, SS-31
+- Cognitive Enhancement: Semax, Selank, Dihexa, PE-22-28, Cerebrolysin
+- Sexual Health: PT-141, Kisspeptin-10
+- Metabolic: Semaglutide, Tirzepatide, MOTS-c, 5-Amino-1MQ
+- Immune & Gut Health: Thymosin Alpha-1, LL-37, Larazotide
+- Skin & Hair: GHK-Cu, AHK-Cu, Matrixyl, Argireline
+
+## Key URLs
+- Home: https://peptides-guide.com
+- Healing & Recovery: https://peptides-guide.com/healing-recovery
+- Body Composition: https://peptides-guide.com/body-composition
+- Longevity: https://peptides-guide.com/longevity
+- Cognitive: https://peptides-guide.com/cognitive
+- Sexual Health: https://peptides-guide.com/sexual-health
+- Metabolic: https://peptides-guide.com/metabolic
+- Immune & Gut: https://peptides-guide.com/immune-gut
+- Skin & Hair: https://peptides-guide.com/skin-hair
+
+## Peptide Pages (each includes: mechanism, research summary, protocols, safety, storage, FAQ)
+- BPC-157: https://peptides-guide.com/peptides/bpc-157
+- Semaglutide: https://peptides-guide.com/peptides/semaglutide
+- GHK-Cu: https://peptides-guide.com/peptides/ghk-cu
+- Semax: https://peptides-guide.com/peptides/semax
+
+## Guides
+- Reconstitution Guide: https://peptides-guide.com/guides/reconstitution
+- Dosing 101: https://peptides-guide.com/guides/dosing-101
+- Peptide Safety: https://peptides-guide.com/guides/peptide-safety
+
+## Contact
+- Website: https://peptides-guide.com
+- About: https://peptides-guide.com/about
