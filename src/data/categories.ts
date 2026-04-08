@@ -21,7 +21,7 @@ export const categories: Category[] = [
       'Growth hormone peptides for body composition: Tesamorelin, CJC-1295, Ipamorelin, AOD-9604, and more. Research, dosing protocols, and evidence-based guidance.',
     peptideSlugs: [
       'tesamorelin', 'cjc-1295', 'ipamorelin', 'cjc-1295-ipamorelin',
-      'aod-9604', 'ghrp-6', 'ghrp-2', 'hexarelin', 'mk-677',
+      'aod-9604', 'ghrp-6', 'ghrp-2', 'hexarelin', 'mk-677', 'cjc-1295-dac',
     ],
   },
   {
@@ -42,7 +42,7 @@ export const categories: Category[] = [
       'Neuropeptides and nootropic peptides that modulate BDNF, NGF, and other neurotrophic pathways. Researched for cognitive enhancement, neuroprotection, and anxiolytic effects.',
     metaDescription:
       'Cognitive peptides: Semax, Selank, Dihexa, and PE-22-28. Nootropic mechanisms, neuroprotection research, and evidence-based protocols for brain health.',
-    peptideSlugs: ['semax', 'selank', 'dihexa', 'pe-22-28', 'cerebrolysin'],
+    peptideSlugs: ['semax', 'selank', 'dihexa', 'pe-22-28', 'cerebrolysin', 'dsip'],
   },
   {
     slug: 'sexual-health',
@@ -62,7 +62,7 @@ export const categories: Category[] = [
       'Peptides and peptide-adjacent compounds that influence glucose metabolism, appetite regulation, insulin sensitivity, and energy expenditure. Includes the GLP-1 receptor agonist class.',
     metaDescription:
       'Metabolic peptides: Semaglutide, Tirzepatide, MOTS-c, and 5-Amino-1MQ. GLP-1 mechanisms, weight management research, and metabolic optimization.',
-    peptideSlugs: ['semaglutide', 'tirzepatide', 'retatrutide', 'mots-c', '5-amino-1mq', 'aod-9604'],
+    peptideSlugs: ['semaglutide', 'tirzepatide', 'retatrutide', 'mots-c', '5-amino-1mq', 'aod-9604', 'orforglipron'],
   },
   {
     slug: 'immune-gut',
@@ -72,7 +72,7 @@ export const categories: Category[] = [
       'Peptides that support immune regulation, antimicrobial defense, and intestinal barrier function. Particularly relevant for autoimmune conditions, gut permeability, and chronic infection.',
     metaDescription:
       'Immune and gut health peptides: Thymosin Alpha-1, LL-37, BPC-157, KPV, and Larazotide. Immune modulation, antimicrobial action, and gut barrier research.',
-    peptideSlugs: ['thymosin-alpha-1', 'll-37', 'bpc-157', 'kpv', 'larazotide'],
+    peptideSlugs: ['thymosin-alpha-1', 'll-37', 'bpc-157', 'kpv', 'larazotide', 'suramin', 'thymalin'],
   },
   {
     slug: 'skin-hair',

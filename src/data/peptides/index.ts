@@ -17,6 +17,7 @@ import { ghrp2 } from './ghrp-2';
 import { hexarelin } from './hexarelin';
 import { mk677 } from './mk-677';
 import { cjc1295Ipamorelin } from './cjc-1295-ipamorelin';
+import { cjc1295Dac } from './cjc-1295-dac';
 
 // Longevity
 import { epitalon } from './epitalon';
@@ -31,6 +32,7 @@ import { selank } from './selank';
 import { dihexa } from './dihexa';
 import { pe2228 } from './pe-22-28';
 import { cerebrolysin } from './cerebrolysin';
+import { dsip } from './dsip';
 
 // Sexual Health
 import { pt141 } from './pt-141';
@@ -42,11 +44,14 @@ import { tirzepatide } from './tirzepatide';
 import { motsc } from './mots-c';
 import { fiveAmino1mq } from './5-amino-1mq';
 import { retatrutide } from './retatrutide';
+import { orforglipron } from './orforglipron';
 
 // Immune & Gut
 import { thymosinAlpha1 } from './thymosin-alpha-1';
 import { ll37 } from './ll-37';
 import { larazotide } from './larazotide';
+import { suramin } from './suramin';
+import { thymalin } from './thymalin';
 
 // Skin & Hair
 import { ahkCu } from './ahk-cu';
@@ -70,6 +75,7 @@ const peptides: Peptide[] = [
   hexarelin,
   mk677,
   cjc1295Ipamorelin,
+  cjc1295Dac,
   // Longevity
   epitalon,
   ghkCu,
@@ -82,6 +88,7 @@ const peptides: Peptide[] = [
   dihexa,
   pe2228,
   cerebrolysin,
+  dsip,
   // Sexual Health
   pt141,
   kisspeptin10,
@@ -91,10 +98,13 @@ const peptides: Peptide[] = [
   motsc,
   fiveAmino1mq,
   retatrutide,
+  orforglipron,
   // Immune & Gut
   thymosinAlpha1,
   ll37,
   larazotide,
+  suramin,
+  thymalin,
   // Skin & Hair
   ahkCu,
   matrixyl,
