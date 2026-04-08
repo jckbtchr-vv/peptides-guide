@@ -35,7 +35,19 @@ export default function sitemap(): MetadataRoute.Sitemap {
       priority: 1.0,
     },
     ...categoryUrls,
+    {
+      url: `${baseUrl}/peptides`,
+      lastModified: new Date(),
+      changeFrequency: 'weekly',
+      priority: 0.9,
+    },
     ...peptideUrls,
+    {
+      url: `${baseUrl}/compare`,
+      lastModified: new Date(),
+      changeFrequency: 'monthly',
+      priority: 0.9,
+    },
     {
       url: `${baseUrl}/guides`,
       lastModified: new Date(),
