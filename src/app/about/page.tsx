@@ -122,6 +122,100 @@ export default function AboutPage() {
             </p>
           </section>
         </div>
+
+        {/* Changelog */}
+        <div className="mt-24 pt-20 border-t border-[var(--border-subtle)] max-w-xl">
+          <p className="text-caption mb-4">Changelog</p>
+          <h2 className="text-subhead mb-10">Built in public.</h2>
+
+          <div className="space-y-0">
+            <div className="flex gap-6 pb-8 border-b border-[var(--border-subtle)]">
+              <span className="text-caption shrink-0 w-[80px] pt-0.5">Apr 8</span>
+              <div>
+                <p className="text-[15px] font-medium mb-1">Comparison page + 5 more peptides</p>
+                <p className="text-[14px] text-[var(--text-secondary)] leading-relaxed">
+                  Added Semaglutide vs Tirzepatide vs Retatrutide comparison page.
+                  New peptides: DSIP, Orforglipron, Suramin, CJC-1295 DAC, Thymalin.
+                  Full peptides index page. 42 peptides, 118 pages total.
+                </p>
+              </div>
+            </div>
+
+            <div className="flex gap-6 py-8 border-b border-[var(--border-subtle)]">
+              <span className="text-caption shrink-0 w-[80px] pt-0.5">Apr 8</span>
+              <div>
+                <p className="text-[15px] font-medium mb-1">OG images + TLDRs + Retatrutide</p>
+                <p className="text-[14px] text-[var(--text-secondary)] leading-relaxed">
+                  Dynamic OG images for every page — black background, white Helvetica.
+                  TLDR summaries added to every peptide page. Added Retatrutide (Eli Lilly&apos;s triple agonist).
+                </p>
+              </div>
+            </div>
+
+            <div className="flex gap-6 py-8 border-b border-[var(--border-subtle)]">
+              <span className="text-caption shrink-0 w-[80px] pt-0.5">Apr 8</span>
+              <div>
+                <p className="text-[15px] font-medium mb-1">AI authorship positioning</p>
+                <p className="text-[14px] text-[var(--text-secondary)] leading-relaxed">
+                  Leaned into transparent AI authorship. Updated About page, footer, and every
+                  peptide page to credit &quot;Prompted by Jack Butcher (Visualize Value) · AI-authored by Claude.&quot;
+                </p>
+              </div>
+            </div>
+
+            <div className="flex gap-6 py-8 border-b border-[var(--border-subtle)]">
+              <span className="text-caption shrink-0 w-[80px] pt-0.5">Apr 7</span>
+              <div>
+                <p className="text-[15px] font-medium mb-1">Guides + remaining peptides</p>
+                <p className="text-[14px] text-[var(--text-secondary)] leading-relaxed">
+                  Three practical guides: Reconstitution, Dosing 101, Peptide Safety.
+                  Added Thymosin Beta-4, Pentosan Polysulfate, Cerebrolysin, CJC-1295/Ipamorelin combo.
+                  Design polish pass — unified containers, fixed side effects table alignment, consistent spacing.
+                </p>
+              </div>
+            </div>
+
+            <div className="flex gap-6 py-8 border-b border-[var(--border-subtle)]">
+              <span className="text-caption shrink-0 w-[80px] pt-0.5">Apr 7</span>
+              <div>
+                <p className="text-[15px] font-medium mb-1">Content population — 32 peptides</p>
+                <p className="text-[14px] text-[var(--text-secondary)] leading-relaxed">
+                  Batch-created all peptide data files across 8 categories. Every peptide includes
+                  mechanism of action, research summary, citations with DOIs, protocols, side effects,
+                  storage info, related peptides, and FAQ sections.
+                </p>
+              </div>
+            </div>
+
+            <div className="flex gap-6 py-8 border-b border-[var(--border-subtle)]">
+              <span className="text-caption shrink-0 w-[80px] pt-0.5">Apr 7</span>
+              <div>
+                <p className="text-[15px] font-medium mb-1">Full site architecture</p>
+                <p className="text-[14px] text-[var(--text-secondary)] leading-relaxed">
+                  Hub &amp; spoke architecture: 8 category pages, dynamic peptide pages, search,
+                  sitemap, robots.txt. JSON-LD schema on every page (MedicalWebPage, FAQPage,
+                  CollectionPage, BreadcrumbList). Dark/light mode.
+                </p>
+              </div>
+            </div>
+
+            <div className="flex gap-6 py-8">
+              <span className="text-caption shrink-0 w-[80px] pt-0.5">Apr 7</span>
+              <div>
+                <p className="text-[15px] font-medium mb-1">Initial build</p>
+                <p className="text-[14px] text-[var(--text-secondary)] leading-relaxed">
+                  Created peptides-guide.com from scratch. Next.js 15, Tailwind CSS, Helvetica design system.
+                  Apple-inspired typography. llms.txt for AI agents. AI crawler access configured.
+                  4 seed peptides (BPC-157, Semaglutide, GHK-Cu, Semax). Deployed to Railway + GitHub.
+                </p>
+              </div>
+            </div>
+          </div>
+
+          <p className="text-[13px] text-[var(--text-tertiary)] mt-10">
+            Entire site built in a single Claude Code session.
+          </p>
+        </div>
       </article>
 
       {/* JSON-LD */}
