@@ -10,8 +10,8 @@ export default function Home() {
 
   return (
     <>
-      {/* Hero — The Statement */}
-      <section className="min-h-[85vh] flex items-center">
+      {/* Hero */}
+      <section className="min-h-[80vh] flex items-center">
         <div className="max-w-[var(--page-max)] mx-auto px-6 py-24">
           <h1
             className="text-display max-w-[900px] mb-8"
@@ -20,15 +20,15 @@ export default function Home() {
             The only peptide resource you&apos;ll ever need.
           </h1>
           <p className="text-body max-w-md mb-12" style={{ fontSize: '18px' }}>
-            35+ peptides. Every mechanism, every study, every protocol.
-            Research-backed. No selling. No hype.
+            36 peptides. Every mechanism, every study, every protocol.
+            Written by AI. Sourced from research.
           </p>
           <div className="flex flex-wrap gap-3">
             <Link
-              href="/healing-recovery"
+              href="#index"
               className="inline-flex items-center px-6 py-3 text-[14px] font-medium bg-[var(--text-primary)] text-[var(--bg-root)] rounded-full hover:opacity-80 transition-opacity"
             >
-              Start Reading
+              Browse Index
             </Link>
             <Link
               href="/about"
@@ -40,72 +40,78 @@ export default function Home() {
         </div>
       </section>
 
-      {/* Categories */}
-      <section className="pb-[var(--section-gap)]">
+      {/* Category Index — compact table */}
+      <section id="index" className="pb-[var(--section-gap)] scroll-mt-16">
         <div className="max-w-[var(--page-max)] mx-auto px-6">
-          <div className="border-t border-[var(--border-subtle)] pt-16 mb-16">
-            <p className="text-caption mb-3">Browse by Category</p>
-            <h2 className="text-headline">8 categories.<br />35+ peptides.</h2>
+          <div className="border-t border-[var(--border-subtle)]">
+            {categories.map((cat) => {
+              const catPeptides = allPeptides.filter((p) =>
+                p.categories.includes(cat.slug as typeof p.primaryCategory)
+              );
+              return (
+                <div key={cat.slug} className="border-b border-[var(--border-subtle)] py-6">
+                  <div className="flex items-baseline justify-between mb-3">
+                    <Link
+                      href={`/${cat.slug}`}
+                      className="text-[15px] font-semibold tracking-tight hover:text-[var(--text-secondary)] transition-colors"
+                    >
+                      {cat.name}
+                    </Link>
+                    <span className="text-[11px] text-[var(--text-tertiary)] uppercase tracking-[0.08em]">
+                      {catPeptides.length} peptides
+                    </span>
+                  </div>
+                  <div className="flex flex-wrap gap-x-4 gap-y-1">
+                    {catPeptides.map((p) => (
+                      <Link
+                        key={p.slug}
+                        href={`/peptides/${p.slug}`}
+                        className="text-[13px] text-[var(--text-tertiary)] hover:text-[var(--text-primary)] transition-colors"
+                      >
+                        {p.name}
+                      </Link>
+                    ))}
+                    {catPeptides.length === 0 && (
+                      <span className="text-[13px] text-[var(--text-tertiary)]">Coming soon</span>
+                    )}
+                  </div>
+                </div>
+              );
+            })}
           </div>
-          <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-4 gap-px bg-[var(--border-subtle)] rounded-[var(--radius-lg)] overflow-hidden">
-            {categories.map((cat) => (
+
+          {/* Guides row */}
+          <div className="border-b border-[var(--border-subtle)] py-6">
+            <div className="flex items-baseline justify-between mb-3">
               <Link
-                key={cat.slug}
-                href={`/${cat.slug}`}
-                className="group bg-[var(--bg-root)] p-7 hover:bg-[var(--bg-surface)] transition-colors"
+                href="/guides"
+                className="text-[15px] font-semibold tracking-tight hover:text-[var(--text-secondary)] transition-colors"
               >
-                <h3 className="text-[16px] font-semibold tracking-tight mb-2 group-hover:text-[var(--accent)] transition-colors">
-                  {cat.name}
-                </h3>
-                <p className="text-[13px] leading-relaxed text-[var(--text-tertiary)] mb-5">
-                  {cat.headline}
-                </p>
-                <span className="text-caption text-[10px]">
-                  {cat.peptideSlugs.length} peptides &rarr;
-                </span>
+                Guides
               </Link>
-            ))}
+              <span className="text-[11px] text-[var(--text-tertiary)] uppercase tracking-[0.08em]">
+                3 guides
+              </span>
+            </div>
+            <div className="flex flex-wrap gap-x-4 gap-y-1">
+              <Link href="/guides/reconstitution" className="text-[13px] text-[var(--text-tertiary)] hover:text-[var(--text-primary)] transition-colors">
+                Reconstitution
+              </Link>
+              <Link href="/guides/dosing-101" className="text-[13px] text-[var(--text-tertiary)] hover:text-[var(--text-primary)] transition-colors">
+                Dosing 101
+              </Link>
+              <Link href="/guides/peptide-safety" className="text-[13px] text-[var(--text-tertiary)] hover:text-[var(--text-primary)] transition-colors">
+                Peptide Safety
+              </Link>
+            </div>
           </div>
         </div>
       </section>
 
-      {/* Featured */}
-      {featured.length > 0 && (
-        <section className="pb-[var(--section-gap)]">
-          <div className="max-w-[var(--page-max)] mx-auto px-6">
-            <div className="border-t border-[var(--border-subtle)] pt-16 mb-16">
-              <p className="text-caption mb-3">Most Searched</p>
-              <h2 className="text-headline">Start here.</h2>
-            </div>
-            <div className="grid grid-cols-1 md:grid-cols-2 gap-px bg-[var(--border-subtle)] rounded-[var(--radius-lg)] overflow-hidden">
-              {featured.map((peptide) => (
-                <Link
-                  key={peptide!.slug}
-                  href={`/peptides/${peptide!.slug}`}
-                  className="group bg-[var(--bg-root)] p-8 hover:bg-[var(--bg-surface)] transition-colors"
-                >
-                  <span className="text-caption text-[10px] mb-3 block">{peptide!.status.toUpperCase()}</span>
-                  <h3
-                    className="text-[28px] font-bold tracking-tight mb-1 group-hover:text-[var(--accent)] transition-colors"
-                    style={{ letterSpacing: '-0.03em' }}
-                  >
-                    {peptide!.name}
-                  </h3>
-                  <p className="text-[13px] text-[var(--text-tertiary)] mb-4">{peptide!.fullName}</p>
-                  <p className="text-[14px] leading-relaxed text-[var(--text-secondary)] line-clamp-2">
-                    {peptide!.metaDescription}
-                  </p>
-                </Link>
-              ))}
-            </div>
-          </div>
-        </section>
-      )}
-
-      {/* Statement Banner */}
+      {/* Statement */}
       <section className="pb-[var(--section-gap)]">
         <div className="max-w-[var(--page-max)] mx-auto px-6">
-          <div className="border-t border-[var(--border-subtle)] pt-24 pb-8">
+          <div className="pt-12 pb-8">
             <h2
               className="max-w-[800px]"
               style={{
@@ -122,9 +128,9 @@ export default function Home() {
               <span className="text-[var(--text-tertiary)]">No one&apos;s selling you anything.</span>
             </h2>
           </div>
-          <div className="flex flex-wrap gap-12 mt-12 text-caption">
+          <div className="flex flex-wrap gap-12 mt-8 text-caption">
             <div>
-              <span className="block text-[32px] font-bold text-[var(--text-primary)] tracking-tight" style={{ letterSpacing: '-0.03em' }}>35+</span>
+              <span className="block text-[32px] font-bold text-[var(--text-primary)] tracking-tight" style={{ letterSpacing: '-0.03em' }}>36</span>
               <span>Peptides</span>
             </div>
             <div>
@@ -152,7 +158,7 @@ export default function Home() {
             '@type': 'WebSite',
             name: 'Peptides Guide',
             url: 'https://peptides-guide.com',
-            description: 'Comprehensive, research-backed peptide encyclopedia covering 35+ peptides with mechanisms, clinical evidence, protocols, and safety profiles.',
+            description: 'Comprehensive, research-backed peptide encyclopedia covering 36 peptides with mechanisms, clinical evidence, protocols, and safety profiles.',
             publisher: {
               '@type': 'Organization',
               name: 'Peptides Guide',
