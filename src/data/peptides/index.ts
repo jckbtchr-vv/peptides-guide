@@ -4,6 +4,8 @@ import { Peptide } from '../types';
 import { bpc157 } from './bpc-157';
 import { tb500 } from './tb-500';
 import { kpv } from './kpv';
+import { thymosinBeta4 } from './thymosin-beta-4';
+import { pentosanPolysulfate } from './pentosan-polysulfate';
 
 // Body Composition
 import { tesamorelin } from './tesamorelin';
@@ -14,6 +16,7 @@ import { ghrp6 } from './ghrp-6';
 import { ghrp2 } from './ghrp-2';
 import { hexarelin } from './hexarelin';
 import { mk677 } from './mk-677';
+import { cjc1295Ipamorelin } from './cjc-1295-ipamorelin';
 
 // Longevity
 import { epitalon } from './epitalon';
@@ -27,6 +30,7 @@ import { semax } from './semax';
 import { selank } from './selank';
 import { dihexa } from './dihexa';
 import { pe2228 } from './pe-22-28';
+import { cerebrolysin } from './cerebrolysin';
 
 // Sexual Health
 import { pt141 } from './pt-141';
@@ -53,6 +57,8 @@ const peptides: Peptide[] = [
   bpc157,
   tb500,
   kpv,
+  thymosinBeta4,
+  pentosanPolysulfate,
   // Body Composition
   tesamorelin,
   cjc1295,
@@ -62,6 +68,7 @@ const peptides: Peptide[] = [
   ghrp2,
   hexarelin,
   mk677,
+  cjc1295Ipamorelin,
   // Longevity
   epitalon,
   ghkCu,
@@ -73,6 +80,7 @@ const peptides: Peptide[] = [
   selank,
   dihexa,
   pe2228,
+  cerebrolysin,
   // Sexual Health
   pt141,
   kisspeptin10,
