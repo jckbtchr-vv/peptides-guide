@@ -132,6 +132,19 @@ export default function AboutPage() {
             <div className="flex gap-6 pb-8 border-b border-[var(--border-subtle)]">
               <span className="text-caption shrink-0 w-[80px] pt-0.5">Apr 8</span>
               <div>
+                <p className="text-[15px] font-medium mb-1">Comparisons, glossary, stacks guide, search upgrade, 4 more peptides</p>
+                <p className="text-[14px] text-[var(--text-secondary)] leading-relaxed">
+                  3 head-to-head comparison pages (BPC-157 vs TB-500, Ipamorelin vs GHRP-6, Semax vs Selank) with FAQ schema.
+                  27-term glossary with DefinedTermSet schema. Peptide Stacking Guide covering 6 popular combinations.
+                  Fuzzy search upgrade with Fuse.js. Smooth scroll for TOC navigation. Custom 404 page. PG favicon.
+                  New peptides: Melanotan II, Thymulin, GHK (non-copper), SNAP-8. 50 peptides total.
+                </p>
+              </div>
+            </div>
+
+            <div className="flex gap-6 py-8 border-b border-[var(--border-subtle)]">
+              <span className="text-caption shrink-0 w-[80px] pt-0.5">Apr 8</span>
+              <div>
                 <p className="text-[15px] font-medium mb-1">SEO + AI visibility optimization</p>
                 <p className="text-[14px] text-[var(--text-secondary)] leading-relaxed">
                   Ran full GEO (Generative Engine Optimization) audit. Fixed Cloudflare blocking all AI crawlers

@@ -32,7 +32,7 @@ export const categories: Category[] = [
       'Peptides researched for their effects on telomere maintenance, senescent cell clearance, mitochondrial function, and systemic markers of aging. These represent the cutting edge of longevity research.',
     metaDescription:
       'Anti-aging peptides: Epitalon, GHK-Cu, FOXO4-DRI, SS-31, and more. Telomerase activation, senolytic mechanisms, and mitochondrial support backed by research.',
-    peptideSlugs: ['epitalon', 'ghk-cu', 'foxo4-dri', 'humanin', 'mots-c', 'ss-31'],
+    peptideSlugs: ['epitalon', 'ghk-cu', 'foxo4-dri', 'humanin', 'mots-c', 'ss-31', 'ghk'],
   },
   {
     slug: 'cognitive',
@@ -72,7 +72,7 @@ export const categories: Category[] = [
       'Peptides that support immune regulation, antimicrobial defense, and intestinal barrier function. Particularly relevant for autoimmune conditions, gut permeability, and chronic infection.',
     metaDescription:
       'Immune and gut health peptides: Thymosin Alpha-1, LL-37, BPC-157, KPV, and Larazotide. Immune modulation, antimicrobial action, and gut barrier research.',
-    peptideSlugs: ['thymosin-alpha-1', 'll-37', 'bpc-157', 'kpv', 'larazotide', 'suramin', 'thymalin'],
+    peptideSlugs: ['thymosin-alpha-1', 'll-37', 'bpc-157', 'kpv', 'larazotide', 'suramin', 'thymalin', 'thymulin'],
   },
   {
     slug: 'skin-hair',
@@ -82,7 +82,7 @@ export const categories: Category[] = [
       'Peptides used in dermatological research for their effects on collagen production, skin elasticity, wound healing, hair follicle stimulation, and anti-wrinkle mechanisms.',
     metaDescription:
       'Skin and hair peptides: GHK-Cu, AHK-Cu, Matrixyl, and Argireline. Collagen synthesis, copper peptide research, and dermatological applications.',
-    peptideSlugs: ['ghk-cu', 'ahk-cu', 'matrixyl', 'argireline'],
+    peptideSlugs: ['ghk-cu', 'ahk-cu', 'matrixyl', 'argireline', 'melanotan-ii', 'snap-8', 'ghk'],
   },
 ];
 

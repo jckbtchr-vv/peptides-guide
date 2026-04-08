@@ -37,6 +37,7 @@ import { dsip } from './dsip';
 // Sexual Health
 import { pt141 } from './pt-141';
 import { kisspeptin10 } from './kisspeptin-10';
+import { melanotanII } from './melanotan-ii';
 
 // Metabolic
 import { semaglutide } from './semaglutide';
@@ -52,11 +53,14 @@ import { ll37 } from './ll-37';
 import { larazotide } from './larazotide';
 import { suramin } from './suramin';
 import { thymalin } from './thymalin';
+import { thymulin } from './thymulin';
 
 // Skin & Hair
 import { ahkCu } from './ahk-cu';
 import { matrixyl } from './matrixyl';
 import { argireline } from './argireline';
+import { snap8 } from './snap-8';
+import { ghk } from './ghk';
 
 const peptides: Peptide[] = [
   // Healing & Recovery
@@ -105,10 +109,14 @@ const peptides: Peptide[] = [
   larazotide,
   suramin,
   thymalin,
+  thymulin,
   // Skin & Hair
   ahkCu,
   matrixyl,
   argireline,
+  melanotanII,
+  snap8,
+  ghk,
 ];
 
 export function getAllPeptides(): Peptide[] {

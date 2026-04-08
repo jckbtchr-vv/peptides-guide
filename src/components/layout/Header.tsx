@@ -30,6 +30,12 @@ export function Header() {
             Guides
           </Link>
           <Link
+            href="/glossary"
+            className="px-3 py-1.5 text-[12px] text-[var(--text-tertiary)] hover:text-[var(--text-primary)] transition-colors rounded-md hover:bg-[var(--bg-surface)]"
+          >
+            Glossary
+          </Link>
+          <Link
             href="/about"
             className="px-3 py-1.5 text-[12px] text-[var(--text-tertiary)] hover:text-[var(--text-primary)] transition-colors rounded-md hover:bg-[var(--bg-surface)]"
           >
