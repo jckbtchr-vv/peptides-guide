@@ -20,7 +20,7 @@ export default function Home() {
             The only peptide resource you&apos;ll ever need.
           </h1>
           <p className="text-body max-w-md mb-12" style={{ fontSize: '18px' }}>
-            36 peptides. Every mechanism, every study, every protocol.
+            {allPeptides.length} peptides. Every mechanism, every study, every protocol.
             Written by AI. Sourced from research.
           </p>
           <div className="flex flex-wrap gap-3">
@@ -130,7 +130,7 @@ export default function Home() {
           </div>
           <div className="flex flex-wrap gap-12 mt-8 text-caption">
             <div>
-              <span className="block text-[32px] font-bold text-[var(--text-primary)] tracking-tight" style={{ letterSpacing: '-0.03em' }}>36</span>
+              <span className="block text-[32px] font-bold text-[var(--text-primary)] tracking-tight" style={{ letterSpacing: '-0.03em' }}>{allPeptides.length}</span>
               <span>Peptides</span>
             </div>
             <div>
@@ -158,7 +158,7 @@ export default function Home() {
             '@type': 'WebSite',
             name: 'Peptides Guide',
             url: 'https://peptides-guide.com',
-            description: 'Comprehensive, research-backed peptide encyclopedia covering 36 peptides with mechanisms, clinical evidence, protocols, and safety profiles.',
+            description: `Comprehensive, research-backed peptide encyclopedia covering ${allPeptides.length} peptides with mechanisms, clinical evidence, protocols, and safety profiles.`,
             publisher: {
               '@type': 'Organization',
               name: 'Peptides Guide',

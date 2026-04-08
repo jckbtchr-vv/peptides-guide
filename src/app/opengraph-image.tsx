@@ -49,7 +49,7 @@ export default async function Image() {
               marginTop: '16px',
             }}
           >
-            36 peptides · Research-sourced · AI-authored
+            46 peptides · Research-sourced · AI-authored
           </div>
         </div>
       </div>
