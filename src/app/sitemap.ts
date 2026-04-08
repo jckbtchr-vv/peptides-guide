@@ -49,6 +49,12 @@ export default function sitemap(): MetadataRoute.Sitemap {
       priority: 0.9,
     },
     {
+      url: `${baseUrl}/compare/semaglutide-vs-tirzepatide-vs-retatrutide`,
+      lastModified: new Date(),
+      changeFrequency: 'monthly',
+      priority: 0.9,
+    },
+    {
       url: `${baseUrl}/compare/bpc-157-vs-tb-500`,
       lastModified: new Date(),
       changeFrequency: 'monthly',
