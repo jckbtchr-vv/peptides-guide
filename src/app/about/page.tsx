@@ -149,7 +149,7 @@ export default function AboutPage() {
                   3 head-to-head comparison pages (BPC-157 vs TB-500, Ipamorelin vs GHRP-6, Semax vs Selank) with FAQ schema.
                   27-term glossary with DefinedTermSet schema. Peptide Stacking Guide covering 6 popular combinations.
                   Fuzzy search upgrade with Fuse.js. Smooth scroll for TOC navigation. Custom 404 page. PG favicon.
-                  New peptides: Melanotan II, Thymulin, GHK (non-copper), SNAP-8. 50 peptides total.
+                  New peptides: Melanotan II, Thymulin, GHK (non-copper), SNAP-8. 46 peptides total.
                 </p>
               </div>
             </div>
