@@ -18,6 +18,8 @@ export const larazotide: Peptide = {
 
   tldr: 'A zonulin antagonist in Phase 3 trials for celiac disease. Prevents tight junction opening to reduce intestinal permeability from inadvertent gluten exposure — the first drug targeting this pathway.',
 
+  eli5: 'For people with celiac disease who accidentally eat gluten. It works by plugging the gaps in your intestinal wall that gluten forces open. It doesn\'t let you eat pizza — it just reduces the damage from accidental gluten exposure. In Phase 3 clinical trials.',
+
   overview:
     'Larazotide acetate is a synthetic octapeptide designed to regulate intestinal tight junctions by antagonizing zonulin, the endogenous protein that increases intestinal permeability. It is the first drug to target the tight junction pathway for treating celiac disease.\n\nUnlike current celiac disease management (strict gluten-free diet), larazotide works by preventing the downstream effects of gluten exposure — specifically, the zonulin-mediated opening of tight junctions that allows gluten fragments to cross the intestinal barrier and trigger immune responses.\n\nLarazotide acts locally in the gut lumen with minimal systemic absorption, giving it a favorable safety profile. It is not a cure for celiac disease but is designed to reduce symptoms and intestinal damage from inadvertent gluten exposure.',
 

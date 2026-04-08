@@ -18,6 +18,8 @@ export const ahkCu: Peptide = {
 
   tldr: 'A copper tripeptide that may be more potent than GHK-Cu specifically for hair follicle stimulation. Promotes dermal papilla cell proliferation and extends the anagen growth phase.',
 
+  eli5: 'A copper peptide cousin of GHK-Cu that seems to be better specifically at waking up hair follicles. It feeds copper to the cells at the base of your hair follicles, supporting the enzymes they need to grow. Used in scalp serums, usually combined with minoxidil.',
+
   overview:
     'AHK-Cu is a copper-binding tripeptide structurally related to GHK-Cu but with a distinct amino acid sequence. While GHK-Cu (Gly-His-Lys) is the most studied copper peptide, AHK-Cu (Ala-His-Lys) has emerged as a peptide with particularly strong effects on hair follicle stimulation.\n\nResearch suggests AHK-Cu may be more potent than GHK-Cu specifically for hair growth stimulation, while GHK-Cu has a broader range of anti-aging and wound-healing applications. AHK-Cu appears to stimulate hair follicle proliferation and increase follicle size more effectively.\n\nAHK-Cu is primarily found in hair growth formulations and scalp treatments. It delivers copper ions to hair follicle cells, supporting the copper-dependent enzymes critical for hair shaft formation and melanin production.',
 

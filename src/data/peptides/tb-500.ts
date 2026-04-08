@@ -18,6 +18,8 @@ export const tb500: Peptide = {
 
   tldr: 'The active fragment of Thymosin Beta-4, promoting cell migration and tissue repair through actin regulation. Frequently combined with BPC-157 for complementary healing pathways.',
 
+  eli5: 'When you get injured, your body needs to move repair cells to the damage site. TB-500 helps those cells get there faster by regulating a protein called actin that controls cell movement. It\'s often paired with BPC-157 — one builds the roads, the other drives the trucks.',
+
   overview:
     'TB-500 is a synthetic version of Thymosin Beta-4 (Tβ4), a naturally occurring 43-amino-acid peptide found in virtually all human and animal cells. Thymosin Beta-4 is one of the most abundant intracellular peptides and plays a central role in actin regulation — the protein system that governs cell structure, migration, and tissue repair.\n\nTB-500 specifically refers to the synthetic fragment that replicates the active region of Tβ4. The key active sequence is the N-terminal fragment Ac-SDKP, which is responsible for many of the anti-inflammatory and tissue-repair properties attributed to the full peptide.\n\nResearch has demonstrated that TB-500 promotes healing across a range of tissue types including muscle, tendon, ligament, cornea, and cardiac tissue. Its ability to upregulate cell-building proteins such as actin and to promote new blood vessel growth (angiogenesis) makes it a highly studied compound in wound healing and tissue regeneration research.',
 

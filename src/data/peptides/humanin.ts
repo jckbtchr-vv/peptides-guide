@@ -18,6 +18,8 @@ export const humanin: Peptide = {
 
   tldr: 'The first identified mitochondrial-derived peptide — a 24-amino acid cytoprotective factor that declines with age. Children of centenarians maintain higher levels, linking it to longevity.',
 
+  eli5: 'The first \'mitochondrial-derived peptide\' ever discovered — your mitochondria actually have their own tiny genome, and this peptide is encoded in it. It protects cells from dying under stress. People who live past 100 tend to have higher levels of it in their blood.',
+
   overview:
     'Humanin is a 24-amino acid peptide encoded within the mitochondrial genome (16S ribosomal RNA gene, MT-RNR2). Discovered in 2001 by Nishimoto and colleagues during a screen for factors protecting neurons against Alzheimer\'s disease-related toxicity, it was the first identified mitochondrial-derived peptide (MDP) — a class of signaling molecules encoded in the mitochondrial DNA that exert cytoprotective effects throughout the body.\n\nHumanin has demonstrated broad cytoprotective, anti-apoptotic, and anti-inflammatory properties across multiple organ systems and disease models. Circulating Humanin levels decline with age, and this decline correlates with age-related diseases including Alzheimer\'s disease, cardiovascular disease, and type 2 diabetes.\n\nThe most studied analog is [Gly14]-Humanin (HNG), in which the serine at position 14 is replaced with glycine, producing a variant approximately 1,000 times more potent than native Humanin. HNG is the primary form used in research studies due to its enhanced activity and improved stability.',
 

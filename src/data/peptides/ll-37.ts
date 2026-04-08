@@ -18,6 +18,8 @@ export const ll37: Peptide = {
 
   tldr: 'The only human cathelicidin antimicrobial peptide. Disrupts bacterial membranes and biofilms while modulating immune response. Its production is directly regulated by vitamin D levels.',
 
+  eli5: 'The only antimicrobial peptide humans naturally produce from the cathelicidin family. It punches holes in bacterial membranes and breaks up the protective shields (biofilms) that bacteria hide behind. Your body makes more of it when you have enough vitamin D.',
+
   overview:
     'LL-37 is the only cathelicidin antimicrobial peptide found in humans. It is a 37-amino-acid peptide cleaved from its precursor protein hCAP-18 (human cationic antimicrobial protein 18 kDa) by the protease proteinase 3. The name "LL-37" derives from its two N-terminal leucine residues and its 37-amino-acid length.\n\nLL-37 is produced by a wide variety of cell types including neutrophils, macrophages, epithelial cells (skin, gut, respiratory tract), and mast cells. It is a key component of the innate immune system and represents one of the body\'s first lines of defense against microbial invasion.\n\nBeyond its direct antimicrobial activity, LL-37 has multifunctional roles in immune regulation, wound healing, angiogenesis, and inflammation modulation. It can kill bacteria, fungi, and enveloped viruses, and is particularly effective at disrupting biofilms — structured bacterial communities that are notoriously resistant to conventional antibiotics. This makes LL-37 a subject of significant research interest in the era of increasing antibiotic resistance.',
 

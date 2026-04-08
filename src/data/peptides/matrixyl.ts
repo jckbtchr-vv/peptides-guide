@@ -18,6 +18,8 @@ export const matrixyl: Peptide = {
 
   tldr: 'One of the few cosmetic peptides with double-blind clinical trial data — showing up to 68% wrinkle depth reduction after 6 months, comparable to retinol but without irritation.',
 
+  eli5: 'One of the rare skincare peptides that actually has clinical trial data behind it. It tricks your skin into thinking collagen is breaking down, so your skin ramps up collagen production. A 6-month study showed wrinkle reduction comparable to retinol, but without the redness and peeling.',
+
   overview:
     'Matrixyl (Palmitoyl Pentapeptide-4) is one of the most validated anti-aging peptides in cosmetic science. It is a synthetic lipopeptide consisting of a five-amino-acid sequence linked to a palmitic acid chain that enhances skin penetration.\n\nThe peptide acts as a matrikine — a fragment of extracellular matrix proteins that signals skin cells to produce more collagen. It mimics the appearance of collagen breakdown products, essentially tricking the skin into thinking it needs to ramp up collagen synthesis.\n\nMatrixyl is one of the few cosmetic peptides with published, double-blind clinical trial data demonstrating significant anti-wrinkle effects.',
 

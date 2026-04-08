@@ -18,6 +18,8 @@ export const cjc1295: Peptide = {
 
   tldr: 'A modified GHRH analog that extends GH pulse amplitude. Available with DAC (Drug Affinity Complex) for weekly dosing or without DAC for pulsatile protocols combined with ghrelin mimetics.',
 
+  eli5: 'Think of your pituitary gland as a speaker and growth hormone as the volume. CJC-1295 turns up the volume knob — it amplifies the natural GH signal. Comes in two versions: one that lasts a few hours (no DAC) and one that lasts a week (with DAC).',
+
   overview:
     'CJC-1295 is a synthetic analog of growth hormone-releasing hormone (GHRH) composed of the first 29 amino acids of GHRH (known as GRF 1-29) with four amino acid substitutions that dramatically improve metabolic stability and resistance to enzymatic degradation.\n\nCJC-1295 exists in two primary forms. The version with Drug Affinity Complex (DAC) covalently binds to serum albumin after injection, extending its half-life to approximately 6–8 days and producing sustained, continuous GH elevation. The version without DAC, often called Modified GRF 1-29 or Mod GRF 1-29, has a half-life of approximately 30 minutes and produces acute GH pulses more similar to natural physiology.\n\nThe distinction between these two forms is critically important. CJC-1295 with DAC creates a sustained GH elevation that blunts pulsatility, while CJC-1295 without DAC (Mod GRF 1-29) is typically combined with a GH secretagogue like ipamorelin to produce amplified but still pulsatile GH release — which is considered more physiological.',
 

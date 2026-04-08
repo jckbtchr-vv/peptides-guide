@@ -18,6 +18,8 @@ export const semax: Peptide = {
 
   tldr: 'A synthetic ACTH fragment approved in Russia as a nootropic since 1994. Rapidly upregulates BDNF expression in the brain within 30 minutes of intranasal administration.',
 
+  eli5: 'A brain-boosting nasal spray used as a prescription drug in Russia since the \'90s. It rapidly increases BDNF — the main protein your brain uses to grow new connections and strengthen existing ones. Think of it as fertilizer for your neurons.',
+
   overview:
     'Semax is a synthetic heptapeptide analog of ACTH (adrenocorticotropic hormone) fragments 4-10, with an added Pro-Gly-Pro sequence at the C-terminus for enhanced stability. Developed at the Institute of Molecular Genetics of the Russian Academy of Sciences in the 1980s, it has been used clinically in Russia since 1994.\n\nSemax is classified as a nootropic and neuroprotective agent. It is prescribed in Russia for cognitive enhancement, stroke recovery, peptic ulcers, optic nerve disease, and as a treatment for attention disorders. It is administered intranasally and has a rapid onset of action.\n\nUnlike many ACTH-derived peptides, Semax does not exhibit hormonal (corticotropic) activity — it does not stimulate the adrenal glands or increase cortisol levels. Its effects are mediated through neurotrophic factor modulation.',
 

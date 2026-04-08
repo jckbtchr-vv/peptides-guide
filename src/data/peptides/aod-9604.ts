@@ -18,6 +18,8 @@ export const aod9604: Peptide = {
 
   tldr: 'A fragment of human growth hormone (amino acids 176-191) that stimulates lipolysis without affecting IGF-1 levels or blood glucose. Targets fat metabolism without the broader effects of full GH.',
 
+  eli5: 'A small piece of human growth hormone (just amino acids 176-191) that kept the fat-burning effect but lost everything else. It helps break down fat without affecting blood sugar or making you grow. Think of it as GH\'s fat-loss department, separated from the rest of the company.',
+
   overview:
     'AOD-9604 is a synthetic peptide corresponding to a modified fragment of the C-terminal region of human growth hormone (amino acids 176-191), with an added tyrosine residue at the N-terminus. It was specifically designed to isolate the lipolytic (fat-burning) activity of growth hormone from its growth-promoting and diabetogenic effects.\n\nDeveloped initially by Metabolic Pharmaceuticals in Australia, AOD-9604 was the subject of significant clinical research in the early 2000s for obesity treatment. The key proposition is that it stimulates fat breakdown and inhibits new fat formation (lipogenesis) without the adverse metabolic effects of full-length GH — specifically, it does not elevate IGF-1, does not impair insulin sensitivity, and does not promote growth of tissues or tumors.\n\nDespite promising preclinical results, Phase IIb clinical trials for obesity did not demonstrate sufficient efficacy over placebo at the doses tested, and clinical development for obesity was discontinued. However, AOD-9604 has since been explored for cartilage repair and osteoarthritis applications and maintains significant interest in the peptide research community.',
 

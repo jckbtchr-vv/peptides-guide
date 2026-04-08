@@ -18,6 +18,8 @@ export const argireline: Peptide = {
 
   tldr: 'A topical peptide that reduces expression wrinkles by partially inhibiting the SNARE complex at the neuromuscular junction — the same target as Botox, but milder and fully reversible.',
 
+  eli5: 'The \'Botox in a jar\' peptide. It partially blocks the same nerve-to-muscle signaling system that Botox completely shuts down. Your expressions soften rather than freeze. The effect is real but much milder than actual Botox — think of it as turning down the volume vs. hitting mute.',
+
   overview:
     'Argireline (Acetyl Hexapeptide-3) is a synthetic peptide designed to reduce expression lines and wrinkles by modulating neurotransmitter release at the neuromuscular junction. It is often called "topical Botox" because it targets the same SNARE complex that botulinum toxin disrupts.\n\nUnlike Botox, Argireline does not paralyze muscles — it reduces the intensity of muscle contractions by partially inhibiting neurotransmitter vesicle fusion. The effect is milder and entirely reversible, with no risk of the frozen expression associated with excessive Botox use.\n\nArgireline is one of the most commercially successful cosmetic peptides and is found in numerous anti-wrinkle serums and creams. It is most effective for expression lines (forehead, crow\'s feet, frown lines) rather than structural wrinkles caused by collagen loss.',
 

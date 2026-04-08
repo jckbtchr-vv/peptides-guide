@@ -18,6 +18,8 @@ export const dsip: Peptide = {
 
   tldr: 'A nonapeptide that promotes delta wave sleep without sedation by normalizing sleep architecture. Also researched for stress adaptation and cortisol regulation.',
 
+  eli5: 'A sleep peptide discovered in the 1970s that promotes delta wave sleep — the deepest, most restorative phase. It doesn\'t knock you out like a sleeping pill; it normalizes your sleep architecture so your brain spends more time in the stages that matter most.',
+
   overview:
     'DSIP (Delta Sleep-Inducing Peptide) is an endogenous nonapeptide first isolated from the cerebral venous blood of rabbits during electrically induced sleep in 1977 by Swiss researchers Schoenenberger and Monnier. It was named for its ability to promote delta wave (slow-wave) sleep in recipient animals.\n\nDSIP is not a sedative or hypnotic in the conventional sense. Rather than forcing sleep, it appears to normalize disrupted sleep architecture — promoting the natural transition into deep, restorative delta wave sleep. This distinction is critical: DSIP modulates the sleep process without the cognitive suppression or dependency risks associated with benzodiazepines or Z-drugs.\n\nBeyond sleep, DSIP has been researched for stress adaptation, cortisol modulation, luteinizing hormone (LH) regulation, and even opioid withdrawal support. It has seen clinical use in Russia and parts of Europe since the 1980s, primarily for chronic insomnia and stress-related neuroendocrine dysfunction.',
 

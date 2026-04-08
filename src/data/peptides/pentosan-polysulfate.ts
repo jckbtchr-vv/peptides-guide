@@ -17,6 +17,8 @@ export const pentosanPolysulfate: Peptide = {
 
   tldr: 'FDA-approved as Elmiron for interstitial cystitis and used in veterinary medicine for osteoarthritis for 20+ years. Restores the GAG protective layer, but long-term use carries a risk of retinal maculopathy.',
 
+  eli5: 'An FDA-approved drug (Elmiron) made from beechwood that restores the protective coating inside your bladder. Also used for decades in veterinary medicine for arthritis in dogs. Important catch: long-term use (3+ years) can damage your retinas.',
+
   overview:
     'Pentosan Polysulfate Sodium (PPS) is a semi-synthetic sulfated polysaccharide derived from beechwood hemicellulose (xylan). It is structurally similar to glycosaminoglycans (GAGs) such as heparan sulfate and has been used clinically since its FDA approval in 1996 as Elmiron for interstitial cystitis.\n\nPPS occupies a unique position among therapeutic compounds — it is an FDA-approved drug with well-documented clinical use, while also being actively researched for applications far beyond its original indication. Its GAG-like structure allows it to restore the protective glycosaminoglycan layer of the bladder urothelium, but also gives it anti-inflammatory, anti-coagulant, and chondroprotective properties.\n\nIn the peptides and regenerative medicine community, PPS has gained significant attention for its potential in joint and cartilage repair, bone healing, and as an anti-inflammatory agent. It is widely used in veterinary medicine for osteoarthritis, where injectable formulations have decades of clinical evidence.',
 

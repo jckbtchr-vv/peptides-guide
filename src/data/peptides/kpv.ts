@@ -18,6 +18,8 @@ export const kpv: Peptide = {
 
   tldr: 'A tripeptide fragment of alpha-MSH that inhibits NF-kB inflammatory signaling. Uniquely absorbed via the intestinal PepT1 transporter, making it effective orally for gut inflammation.',
 
+  eli5: 'A tiny three-amino-acid fragment that calms down inflammation by blocking NF-kB, the master switch for inflammatory signals. What makes it special: unlike most peptides, your gut can actually absorb it through a specific transporter, making oral use viable for gut inflammation.',
+
   overview:
     'KPV is a naturally occurring tripeptide consisting of three amino acids — lysine, proline, and valine. It is derived from the C-terminal end (positions 11-13) of alpha-melanocyte-stimulating hormone (α-MSH), a neuropeptide with potent anti-inflammatory properties.\n\nAlpha-MSH is a 13-amino-acid peptide produced in the pituitary gland, skin cells, and immune cells. While the full α-MSH molecule binds melanocortin receptors (MC1R–MC5R), the KPV fragment retains the anti-inflammatory activity without the melanogenic (skin-darkening) effects. This is significant because it means KPV can deliver anti-inflammatory benefits without the cosmetic side effects associated with other melanocortin peptides.\n\nKPV has gained particular attention for its effects on gut inflammation, with research demonstrating efficacy in inflammatory bowel disease (IBD) models including colitis. It also exhibits antimicrobial properties against certain bacteria, including Staphylococcus aureus and Candida albicans.',
 

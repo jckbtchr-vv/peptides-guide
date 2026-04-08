@@ -18,6 +18,8 @@ export const kisspeptin10: Peptide = {
 
   tldr: 'The master upstream regulator of reproductive hormones — signals the hypothalamus to release GnRH. Brain imaging shows it also enhances sexual arousal through limbic circuits independent of hormonal effects.',
 
+  eli5: 'The \'master switch\' for your reproductive hormones. It tells your brain to start the whole cascade that produces testosterone or estrogen. Brain scans also show it lights up areas related to sexual attraction and romantic bonding — separate from its hormone effects.',
+
   overview:
     'Kisspeptin-10 is a 10-amino-acid fragment of the 54-amino-acid neuropeptide kisspeptin (metastin). Kisspeptins are the endogenous ligands of the GPR54 receptor (KISS1R) and are the master regulators of the hypothalamic-pituitary-gonadal (HPG) axis.\n\nKisspeptin signaling is essential for puberty onset, reproductive hormone release, and fertility. It acts upstream of GnRH (gonadotropin-releasing hormone) — it is the signal that tells the hypothalamus to release GnRH, which then triggers LH and FSH release from the pituitary.\n\nRecent research has revealed kisspeptin also plays a role in sexual arousal and attraction behavior, independent of its reproductive hormone effects. Brain imaging studies show kisspeptin enhances activity in brain regions associated with sexual processing and romantic attraction.',
 

@@ -17,6 +17,8 @@ export const orforglipron: Peptide = {
 
   tldr: "Eli Lilly's oral GLP-1 agonist — a daily pill, not an injection. Phase 2 showed 14.7% weight loss, potentially making GLP-1 therapy as simple as taking a tablet.",
 
+  eli5: 'Imagine semaglutide (Ozempic) but as a daily pill instead of a weekly injection. That\'s what Eli Lilly is building. Phase 2 showed about 15% weight loss from a simple tablet. If approved, it could make GLP-1 therapy as easy as taking a vitamin.',
+
   overview:
     'Orforglipron (LY3502970) is a non-peptide, orally bioavailable GLP-1 receptor agonist developed by Eli Lilly. It represents a potential paradigm shift in metabolic medicine: delivering the benefits of GLP-1 receptor activation — appetite suppression, glycemic control, and weight loss — through a daily pill rather than a weekly injection.\n\nCritically, orforglipron is NOT a peptide. It is a small molecule that mimics the action of GLP-1 at its receptor. This distinction matters because peptide-based GLP-1 agonists like semaglutide are destroyed by stomach acid and must be injected (or require complex formulation for oral delivery, as with oral semaglutide/Rybelsus). Orforglipron sidesteps this entirely through its non-peptide structure.\n\nEli Lilly is running the ATTAIN clinical trial program, which includes Phase 3 studies in both obesity and type 2 diabetes. Phase 2 data showed weight loss of up to 14.7% over 36 weeks, placing it in a competitive range with injectable GLP-1 therapies. If approved, orforglipron could dramatically expand access to GLP-1 therapy by removing the injection barrier.',
 

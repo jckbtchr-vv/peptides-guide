@@ -18,6 +18,8 @@ export const dihexa: Peptide = {
 
   tldr: 'An angiotensin IV analog reported to be 10 million times more potent than BDNF at promoting synaptogenesis in vitro. Extremely early-stage — no human trials exist and long-term safety is unknown.',
 
+  eli5: 'A peptide that researchers claim is 10 million times more potent than BDNF at promoting new brain connections in a lab dish. That\'s an extraordinary claim, and it comes with extraordinary caveats: zero human testing, unknown long-term safety, and extremely early-stage research.',
+
   overview:
     'Dihexa is a synthetic peptide-based compound derived from angiotensin IV, developed by Dr. Joseph Harding and colleagues at Washington State University. It was designed to act as a potent agonist of the hepatocyte growth factor (HGF)/c-Met receptor system, which plays a critical role in synaptogenesis, neuronal survival, and cognitive function.\n\nIn preclinical studies, Dihexa demonstrated extraordinary potency — approximately 10 million times more potent than BDNF in promoting synaptogenesis in vitro. This remarkable potency made it a subject of significant interest in Alzheimer\'s disease and cognitive decline research.\n\nDihexa is notable for having oral bioavailability, a property rare among peptides. In animal models, oral administration produced cognitive enhancement, crossing the blood-brain barrier and reaching effective concentrations in the CNS. The compound emerged from systematic structure-activity optimization of the angiotensin IV family, which had previously shown procognitive effects but lacked metabolic stability.',
 

@@ -17,6 +17,8 @@ export const suramin: Peptide = {
 
   tldr: 'A century-old antiparasitic drug being researched for autism through antipurinergic therapy. A small pilot trial at UCSD showed improvements in core autism symptoms, but evidence is extremely preliminary.',
 
+  eli5: 'A 100-year-old drug for parasites that a researcher at UCSD thinks might help with autism. His theory: autism involves cells stuck in \'danger mode,\' and suramin turns off that signal. One tiny pilot study showed improvements, but it\'s extremely preliminary.',
+
   overview:
     'Suramin is a century-old polyanionic compound originally developed by Bayer in 1916 for the treatment of African trypanosomiasis (sleeping sickness) and onchocerciasis (river blindness). It remains on the WHO List of Essential Medicines for these indications and has been in continuous clinical use in sub-Saharan Africa for over 100 years.\n\nSuramin is NOT a peptide. It is a large, symmetrical polysulfonated naphthylurea — a synthetic small molecule with a complex structure. It is included in this guide because of its growing relevance to the biohacking and functional medicine community, particularly through the work of Robert Naviaux at UC San Diego.\n\nNaviaux\'s antipurinergic therapy (APT) hypothesis proposes that autism spectrum disorder involves a sustained cellular danger response (CDR) mediated by extracellular ATP and purinergic signaling. Suramin, as a broad purinergic receptor antagonist, may interrupt this danger response. A small pilot trial showed measurable improvements in core autism symptoms, generating significant attention. However, the evidence base remains extremely preliminary.',
 

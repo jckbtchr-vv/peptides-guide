@@ -18,6 +18,8 @@ export const tesamorelin: Peptide = {
 
   tldr: 'FDA-approved GHRH analog (Egrifta) for HIV-associated lipodystrophy. The only GH secretagogue with FDA approval, producing pulsatile GH release that mimics natural physiology.',
 
+  eli5: 'The only growth hormone-stimulating peptide with actual FDA approval. It tells your pituitary gland to release growth hormone in natural pulses, which your body handles much better than injecting GH directly. Approved specifically for reducing belly fat in HIV patients.',
+
   overview:
     'Tesamorelin is a synthetic analog of human growth hormone-releasing hormone (GHRH) consisting of the full 44-amino acid sequence of endogenous GHRH with a trans-3-hexenoic acid modification at the N-terminus. This modification provides enhanced stability and resistance to enzymatic degradation compared to native GHRH.\n\nTesamorelin was FDA-approved in 2010 (Egrifta) and reformulated in 2019 (Egrifta SV) specifically for the reduction of excess visceral adipose tissue (VAT) in HIV-infected patients with lipodystrophy — a condition characterized by abnormal fat accumulation in the trunk and abdomen as a side effect of antiretroviral therapy.\n\nUnlike direct growth hormone administration, tesamorelin stimulates the pituitary gland to produce and release GH in a more physiological pulsatile pattern, which may reduce certain risks associated with exogenous GH therapy. It has attracted significant interest in the anti-aging and body composition optimization communities due to its potent visceral fat-reducing effects.',
 

@@ -18,6 +18,8 @@ export const hexarelin: Peptide = {
 
   tldr: 'Produces the strongest acute GH release of any synthetic secretagogue, with unique cardioprotective effects via CD36 receptor activation. Limited by faster tolerance development requiring cycling.',
 
+  eli5: 'The most powerful single-shot GH releaser, with a bonus: it protects heart cells through a completely separate receptor. The downside is your body builds tolerance faster than with other GH peptides, so you have to cycle it — a few weeks on, a few weeks off.',
+
   overview:
     'Hexarelin is a synthetic hexapeptide growth hormone secretagogue and one of the strongest GH releasers in the GHRP class. It produces the most potent acute GH response of any synthetic secretagogue, even surpassing GHRP-2.\n\nHexarelin is notable for two characteristics: its exceptional GH-releasing potency and its significant cardioprotective properties. Research has identified direct cardiac effects independent of GH release, mediated through a distinct receptor (CD36) on cardiac tissue.\n\nThe primary limitation of Hexarelin is that tolerance develops relatively quickly — GH response diminishes with repeated daily use over 4-6 weeks, more so than with other GHRPs. This limits its use in long-term protocols.',
 

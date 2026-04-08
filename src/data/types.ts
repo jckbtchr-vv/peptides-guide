@@ -66,6 +66,7 @@ export interface Peptide {
   regulatoryNote?: string;
 
   tldr: string;
+  eli5: string;
   overview: string;
   mechanismOfAction: string;
   researchSummary: string;

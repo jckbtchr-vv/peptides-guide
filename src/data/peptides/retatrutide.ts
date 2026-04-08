@@ -17,6 +17,8 @@ export const retatrutide: Peptide = {
 
   tldr: 'Eli Lilly\'s triple agonist (GIP/GLP-1/glucagon) that produced 24.2% weight loss in Phase 2 — the highest ever recorded for any anti-obesity drug. Adds glucagon receptor activation to the dual-agonist approach of tirzepatide.',
 
+  eli5: 'Eli Lilly\'s next-generation triple-action drug that hits three receptors at once. Phase 2 trials showed 24% weight loss — the most ever recorded for any obesity drug. The third receptor (glucagon) adds something new: it makes your liver burn more fat. Still in Phase 3 trials.',
+
   overview:
     'Retatrutide is an investigational triple hormone receptor agonist that simultaneously activates three receptors: GIP (glucose-dependent insulinotropic polypeptide), GLP-1 (glucagon-like peptide-1), and glucagon receptors. It represents the next evolution beyond dual agonists like tirzepatide.\n\nDeveloped by Eli Lilly, retatrutide produced unprecedented weight loss results in Phase 2 trials — 24.2% mean body weight reduction at the highest dose over 48 weeks, surpassing every other anti-obesity compound ever studied including semaglutide (15%) and tirzepatide (21%).\n\nThe addition of glucagon receptor agonism to the GIP/GLP-1 backbone is the key innovation. Glucagon increases energy expenditure, promotes hepatic fat oxidation, and reduces liver fat — effects that complement the appetite suppression and insulin sensitization of GIP/GLP-1 signaling.',
 

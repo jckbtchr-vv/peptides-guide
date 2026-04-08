@@ -18,6 +18,8 @@ export const ghrp6: Peptide = {
 
   tldr: 'A potent GH secretagogue that produces strong growth hormone pulses and intense appetite stimulation through ghrelin receptor activation. Best combined with GHRH analogs for synergistic release.',
 
+  eli5: 'A peptide that makes your pituitary dump growth hormone by mimicking ghrelin, the hunger hormone. The catch: it makes you ravenously hungry about 20 minutes after injection. Great if you need to eat more, annoying if you don\'t.',
+
   overview:
     'GHRP-6 is a synthetic hexapeptide that stimulates growth hormone release by mimicking the action of ghrelin at the growth hormone secretagogue receptor (GHS-R1a). It was one of the first synthetic GH secretagogues developed and has been widely studied since the early 1990s.\n\nGHRP-6 is known for producing robust GH pulses and is notable for its strong appetite-stimulating effects — a feature that distinguishes it from more selective secretagogues like Ipamorelin. This hunger response is directly mediated through the ghrelin receptor.\n\nWhile effective at elevating GH and IGF-1 levels, GHRP-6 is considered less selective than newer peptides because it also increases cortisol and prolactin to a modest degree.',
 

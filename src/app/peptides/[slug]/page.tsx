@@ -6,6 +6,7 @@ import { categories } from '@/data/categories';
 import { Breadcrumbs } from '@/components/shared/Breadcrumbs';
 import { Disclaimer } from '@/components/shared/Disclaimer';
 import { Accordion } from '@/components/ui/Accordion';
+import { Eli5Toggle } from '@/components/peptide/Eli5Toggle';
 
 export async function generateStaticParams() {
   return getAllPeptides().map((p) => ({ slug: p.slug }));
@@ -134,8 +135,11 @@ export default async function PeptidePage({
           </p>
         </header>
 
-        {/* TLDR */}
-        {peptide.tldr && (
+        {/* TLDR / ELI5 Toggle */}
+        {peptide.tldr && peptide.eli5 && (
+          <Eli5Toggle tldr={peptide.tldr} eli5={peptide.eli5} />
+        )}
+        {peptide.tldr && !peptide.eli5 && (
           <div className="py-10 border-b border-[var(--border-subtle)]">
             <p className="text-caption mb-3">TLDR</p>
             <p

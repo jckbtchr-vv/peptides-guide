@@ -17,6 +17,8 @@ export const mk677: Peptide = {
 
   tldr: 'The only orally active GH secretagogue — a non-peptide ghrelin mimetic with a 24-hour half-life. Clinical trials show sustained IGF-1 elevation and 50% increase in deep sleep, but can impair insulin sensitivity.',
 
+  eli5: 'Not technically a peptide — it\'s a pill that does what injectable GH peptides do. Take it once a day, and it keeps your growth hormone and IGF-1 elevated around the clock. Bonus: it dramatically improves deep sleep. Warning: it can mess with your blood sugar over time.',
+
   overview:
     'MK-677 (Ibutamoren) is a non-peptide, orally active growth hormone secretagogue that mimics ghrelin at the GHS-R1a receptor. Unlike injectable GH secretagogues, MK-677 is taken orally once daily and has a long half-life of approximately 24 hours.\n\nMK-677 is technically not a peptide — it is a small molecule — but is universally discussed alongside peptide GH secretagogues due to its identical mechanism of action (ghrelin receptor agonism). It has been through multiple Phase II clinical trials and is one of the most extensively human-studied GH secretagogues.\n\nKey advantages include oral bioavailability, convenient once-daily dosing, and sustained IGF-1 elevation. Key drawbacks include significant appetite stimulation, potential insulin resistance with long-term use, and water retention.',
 

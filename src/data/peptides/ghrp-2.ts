@@ -18,6 +18,8 @@ export const ghrp2: Peptide = {
 
   tldr: 'The most potent GH-releasing peptide in the GHRP series, approved in Japan as Pralmorelin for GH deficiency diagnosis. Produces higher peak GH than GHRP-6 with less hunger but more cortisol.',
 
+  eli5: 'The strongest growth hormone releaser in the GHRP family — even used in Japan as an official medical test for pituitary function. Causes less hunger than GHRP-6 but more cortisol. It\'s the power option when maximum GH output is the goal.',
+
   overview:
     'GHRP-2 is a synthetic hexapeptide and one of the most potent growth hormone secretagogues in the GHRP family. It produces the strongest GH release among the GHRPs, surpassing both GHRP-6 and Ipamorelin in peak GH output.\n\nDeveloped as a research tool to study the growth hormone secretagogue receptor, GHRP-2 has been approved in Japan under the name Pralmorelin as a diagnostic agent to assess GH deficiency. It serves as a provocative test — if GH rises in response to GHRP-2, the pituitary is functional.\n\nGHRP-2 sits between GHRP-6 and Ipamorelin in terms of selectivity. It causes less hunger than GHRP-6 but more than Ipamorelin, and produces moderate cortisol and prolactin elevation.',
 

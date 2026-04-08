@@ -18,6 +18,8 @@ export const ghkCu: Peptide = {
 
   tldr: 'A naturally occurring copper peptide that declines with age and has been shown to modulate over 4,000 genes. Research demonstrates effects on collagen synthesis, wound healing, and gene expression resetting toward younger patterns.',
 
+  eli5: 'Your blood naturally contains this tiny copper-carrying molecule, but you lose most of it as you age. When researchers added it back to old cells, it flipped thousands of genes back toward a \'younger\' pattern. It\'s used in fancy skincare for wrinkles, but the injectable form is researched for whole-body anti-aging.',
+
   overview:
     'GHK-Cu is a naturally occurring copper-binding tripeptide first identified in human plasma in 1973 by Dr. Loren Pickart. Plasma levels of GHK-Cu decline significantly with age — from approximately 200 ng/mL at age 20 to 80 ng/mL by age 60.\n\nThis peptide has attracted significant research interest for its broad biological activities including wound healing, tissue remodeling, anti-inflammatory effects, and gene expression modulation. GHK-Cu has been shown to affect the activity of over 4,000 genes, resetting gene expression patterns toward a healthier state.\n\nIn cosmetic applications, GHK-Cu is one of the most well-validated peptides for skin rejuvenation, with demonstrated effects on collagen synthesis, elastin production, and antioxidant enzyme expression.',
 

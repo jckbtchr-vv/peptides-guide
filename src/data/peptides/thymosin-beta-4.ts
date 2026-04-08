@@ -18,6 +18,8 @@ export const thymosinBeta4: Peptide = {
 
   tldr: 'The full-length 43-amino acid parent protein of TB-500. Found in nearly all human tissues, with the most advanced clinical application being RGN-259 eye drops for corneal healing.',
 
+  eli5: 'The full-size parent protein that TB-500 is a fragment of. Found in almost every tissue in your body, it\'s essential for cell movement and wound healing. The most clinically advanced use is as eye drops (RGN-259) for healing damaged corneas.',
+
   overview:
     'Thymosin Beta-4 (Tβ4) is a naturally occurring 43-amino acid peptide and the most abundant member of the beta-thymosin family. It is found in virtually all human tissues and cell types, with particularly high concentrations in blood platelets, wound fluid, and developing tissues.\n\nTβ4 is the full-length parent protein from which the commercially available fragment TB-500 is derived. While TB-500 contains the active region (amino acids 17–23, the actin-binding domain), full-length Tβ4 carries additional biological functions beyond actin sequestration, including roles in gene regulation, anti-inflammatory signaling, and stem cell recruitment.\n\nResearch interest in Tβ4 spans wound healing, cardiac repair following myocardial infarction, corneal healing, neurological repair, and hair follicle growth. Its role as a major actin-sequestering protein gives it fundamental importance in cell motility, migration, and tissue remodeling.',
 

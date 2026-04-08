@@ -17,6 +17,8 @@ export const semaglutide: Peptide = {
 
   tldr: 'FDA-approved GLP-1 agonist (Ozempic/Wegovy) that produces 15% average body weight loss in clinical trials. The most extensively studied weight-loss peptide therapeutic, with proven cardiovascular benefits.',
 
+  eli5: 'This is the active ingredient in Ozempic and Wegovy. It mimics a hormone your gut releases after eating, which tells your brain you\'re full. People lose about 15% of their body weight on it. It\'s one of the few peptides that\'s actually FDA-approved and prescribed by doctors.',
+
   overview:
     'Semaglutide is a glucagon-like peptide-1 (GLP-1) receptor agonist that mimics the effects of the naturally occurring incretin hormone GLP-1. It is one of the most extensively studied and commercially successful peptide therapeutics in modern medicine.\n\nOriginally developed for type 2 diabetes management, semaglutide gained widespread attention for its significant effects on weight loss. The STEP clinical trial program demonstrated average weight reductions of 15–17% of body weight at the 2.4 mg weekly dose.\n\nSemaglutide has a remarkably long half-life of approximately 7 days due to structural modifications including a C-18 fatty acid chain and amino acid substitutions that increase albumin binding and resistance to DPP-4 degradation.',
 

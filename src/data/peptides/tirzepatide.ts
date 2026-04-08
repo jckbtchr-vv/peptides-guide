@@ -17,6 +17,8 @@ export const tirzepatide: Peptide = {
 
   tldr: 'FDA-approved dual GIP/GLP-1 agonist (Mounjaro/Zepbound) that produced 20.9% average weight loss in SURMOUNT-1 — surpassing semaglutide in head-to-head trials.',
 
+  eli5: 'Eli Lilly\'s dual-action weight loss drug (Mounjaro/Zepbound) that hits two receptors instead of semaglutide\'s one. The result: about 21% body weight loss in trials, beating semaglutide in a head-to-head study. FDA-approved for both diabetes and obesity.',
+
   overview:
     'Tirzepatide is a first-in-class dual agonist that activates both the glucose-dependent insulinotropic polypeptide (GIP) and glucagon-like peptide-1 (GLP-1) receptors. Developed by Eli Lilly, it represents a significant advance over single-incretin GLP-1 receptor agonists like semaglutide by harnessing the complementary metabolic effects of both incretin hormones.\n\nIn clinical trials, tirzepatide demonstrated superior weight loss and glycemic control compared to semaglutide, establishing a new benchmark in metabolic therapeutics. The SURMOUNT-1 trial showed average weight loss of 20.9% at the highest dose (15 mg) over 72 weeks — a level of weight reduction previously achievable only through bariatric surgery.\n\nTirzepatide is a 39-amino acid synthetic peptide based on the GIP sequence, with modifications that also confer GLP-1 receptor agonism. A C20 fatty diacid moiety enables albumin binding, extending the half-life to approximately 5 days and allowing once-weekly dosing. It was approved by the FDA as Mounjaro for type 2 diabetes in May 2022 and as Zepbound for chronic weight management in November 2023.',
 

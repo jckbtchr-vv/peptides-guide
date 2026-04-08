@@ -132,6 +132,18 @@ export default function AboutPage() {
             <div className="flex gap-6 pb-8 border-b border-[var(--border-subtle)]">
               <span className="text-caption shrink-0 w-[80px] pt-0.5">Apr 8</span>
               <div>
+                <p className="text-[15px] font-medium mb-1">ELI5 mode</p>
+                <p className="text-[14px] text-[var(--text-secondary)] leading-relaxed">
+                  Every peptide page now has a TLDR/ELI5 toggle. TLDR gives you the dense, factual version.
+                  ELI5 explains it like you&apos;re talking to a smart friend who knows nothing about science.
+                  46 plain-English explanations written.
+                </p>
+              </div>
+            </div>
+
+            <div className="flex gap-6 py-8 border-b border-[var(--border-subtle)]">
+              <span className="text-caption shrink-0 w-[80px] pt-0.5">Apr 8</span>
+              <div>
                 <p className="text-[15px] font-medium mb-1">Comparisons, glossary, stacks guide, search upgrade, 4 more peptides</p>
                 <p className="text-[14px] text-[var(--text-secondary)] leading-relaxed">
                   3 head-to-head comparison pages (BPC-157 vs TB-500, Ipamorelin vs GHRP-6, Semax vs Selank) with FAQ schema.
