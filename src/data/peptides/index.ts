@@ -41,6 +41,7 @@ import { semaglutide } from './semaglutide';
 import { tirzepatide } from './tirzepatide';
 import { motsc } from './mots-c';
 import { fiveAmino1mq } from './5-amino-1mq';
+import { retatrutide } from './retatrutide';
 
 // Immune & Gut
 import { thymosinAlpha1 } from './thymosin-alpha-1';
@@ -89,6 +90,7 @@ const peptides: Peptide[] = [
   tirzepatide,
   motsc,
   fiveAmino1mq,
+  retatrutide,
   // Immune & Gut
   thymosinAlpha1,
   ll37,

@@ -62,7 +62,7 @@ export const categories: Category[] = [
       'Peptides and peptide-adjacent compounds that influence glucose metabolism, appetite regulation, insulin sensitivity, and energy expenditure. Includes the GLP-1 receptor agonist class.',
     metaDescription:
       'Metabolic peptides: Semaglutide, Tirzepatide, MOTS-c, and 5-Amino-1MQ. GLP-1 mechanisms, weight management research, and metabolic optimization.',
-    peptideSlugs: ['semaglutide', 'tirzepatide', 'mots-c', '5-amino-1mq', 'aod-9604'],
+    peptideSlugs: ['semaglutide', 'tirzepatide', 'retatrutide', 'mots-c', '5-amino-1mq', 'aod-9604'],
   },
   {
     slug: 'immune-gut',
