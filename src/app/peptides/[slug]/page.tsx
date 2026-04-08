@@ -240,18 +240,32 @@ export default async function PeptidePage({
                 <div>
                   <h3 className="text-caption mb-4">Key References</h3>
                   <div className="space-y-px rounded-[var(--radius-md)] overflow-hidden">
-                    {peptide.citations.map((cite, i) => (
-                      <div key={i} className="bg-[var(--bg-surface)] p-5">
-                        <p className="text-[14px] font-medium leading-snug mb-1.5">{cite.title}</p>
-                        <p className="text-[12px] text-[var(--text-tertiary)] mb-2.5">
-                          {cite.authors} &middot; <em>{cite.journal}</em> ({cite.year})
-                          {cite.doi && (
-                            <span className="font-mono text-[11px]"> &middot; {cite.doi}</span>
-                          )}
-                        </p>
-                        <p className="text-[13px] leading-relaxed text-[var(--text-secondary)]">{cite.summary}</p>
-                      </div>
-                    ))}
+                    {peptide.citations.map((cite, i) => {
+                      const href = cite.url || (cite.doi ? `https://doi.org/${cite.doi}` : undefined);
+                      return (
+                        <div key={i} className="bg-[var(--bg-surface)] p-5">
+                          <p className="text-[14px] font-medium leading-snug mb-1.5">
+                            {href ? (
+                              <a href={href} target="_blank" rel="noopener noreferrer" className="underline decoration-[var(--border-default)] underline-offset-2 hover:decoration-[var(--text-primary)] transition-colors">
+                                {cite.title}
+                              </a>
+                            ) : cite.title}
+                          </p>
+                          <p className="text-[12px] text-[var(--text-tertiary)] mb-2.5">
+                            {cite.authors} &middot; <em>{cite.journal}</em> ({cite.year})
+                            {cite.doi && (
+                              <span className="font-mono text-[11px]">
+                                {' '}&middot;{' '}
+                                <a href={`https://doi.org/${cite.doi}`} target="_blank" rel="noopener noreferrer" className="underline underline-offset-2 hover:text-[var(--text-secondary)] transition-colors">
+                                  {cite.doi}
+                                </a>
+                              </span>
+                            )}
+                          </p>
+                          <p className="text-[13px] leading-relaxed text-[var(--text-secondary)]">{cite.summary}</p>
+                        </div>
+                      );
+                    })}
                   </div>
                 </div>
               )}
