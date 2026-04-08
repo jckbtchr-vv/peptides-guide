@@ -132,6 +132,17 @@ export default function AboutPage() {
             <div className="flex gap-6 pb-8 border-b border-[var(--border-subtle)]">
               <span className="text-caption shrink-0 w-[80px] pt-0.5">Apr 8</span>
               <div>
+                <p className="text-[15px] font-medium mb-1">Start Here page, Ozempic vs Mounjaro, RSS feed</p>
+                <p className="text-[14px] text-[var(--text-secondary)] leading-relaxed">
+                  &quot;5 Peptides Everyone Should Know&quot; start page for newcomers. Ozempic vs Mounjaro comparison
+                  targeting the highest-volume search query in the space. RSS feed at /feed. 8 total comparisons.
+                </p>
+              </div>
+            </div>
+
+            <div className="flex gap-6 py-8 border-b border-[var(--border-subtle)]">
+              <span className="text-caption shrink-0 w-[80px] pt-0.5">Apr 8</span>
+              <div>
                 <p className="text-[15px] font-medium mb-1">Peptide Finder quiz, 2 more comparisons, category deep dives</p>
                 <p className="text-[14px] text-[var(--text-secondary)] leading-relaxed">
                   Interactive &quot;What should I use?&quot; quiz that recommends peptides based on your goals.

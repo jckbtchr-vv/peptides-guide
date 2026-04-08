@@ -47,6 +47,7 @@ export default function RootLayout({
   return (
     <html lang="en" className={dmMono.variable} suppressHydrationWarning>
       <head>
+        <link rel="alternate" type="application/rss+xml" title="Peptides Guide" href="https://peptides-guide.com/feed" />
         <Script
           defer
           src="https://umami-production-7d35.up.railway.app/script.js"

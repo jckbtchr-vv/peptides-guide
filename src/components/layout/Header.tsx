@@ -4,6 +4,7 @@ import Link from 'next/link';
 import { ThemeToggle } from './ThemeToggle';
 
 const navLinks = [
+  { href: '/start-here', label: 'Start Here' },
   { href: '/peptides', label: 'Peptides' },
   { href: '/compare', label: 'Compare' },
   { href: '/quiz', label: 'Quiz' },

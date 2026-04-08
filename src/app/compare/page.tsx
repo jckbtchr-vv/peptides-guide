@@ -8,6 +8,12 @@ export const metadata: Metadata = {
 
 const comparisons = [
   {
+    href: '/compare/ozempic-vs-mounjaro',
+    title: 'Ozempic vs Mounjaro',
+    description: 'The two most prescribed weight loss drugs. Semaglutide vs tirzepatide — cost, weight loss, side effects, insurance.',
+    category: 'Metabolic',
+  },
+  {
     href: '/compare/semaglutide-vs-tirzepatide-vs-retatrutide',
     title: 'Semaglutide vs Tirzepatide vs Retatrutide',
     description: 'Single, dual, and triple receptor GLP-1 agonists compared. Weight loss data, mechanisms, and availability.',
