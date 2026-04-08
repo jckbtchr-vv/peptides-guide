@@ -34,7 +34,9 @@ export function Footer() {
           <div>
             <h3 className="text-caption mb-4">Guides</h3>
             <ul className="space-y-2.5">
-              <li><Link href="/guides" className="text-[13px] text-[var(--text-tertiary)] hover:text-[var(--text-primary)] transition-colors">All Guides</Link></li>
+              <li><Link href="/guides/reconstitution" className="text-[13px] text-[var(--text-tertiary)] hover:text-[var(--text-primary)] transition-colors">Reconstitution</Link></li>
+              <li><Link href="/guides/dosing-101" className="text-[13px] text-[var(--text-tertiary)] hover:text-[var(--text-primary)] transition-colors">Dosing 101</Link></li>
+              <li><Link href="/guides/peptide-safety" className="text-[13px] text-[var(--text-tertiary)] hover:text-[var(--text-primary)] transition-colors">Peptide Safety</Link></li>
             </ul>
           </div>
           <div>

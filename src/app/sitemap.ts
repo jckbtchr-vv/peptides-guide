@@ -1,6 +1,7 @@
 import type { MetadataRoute } from 'next';
 import { categories } from '@/data/categories';
 import { getAllPeptides } from '@/data/peptides';
+import { getAllGuides } from '@/data/guides';
 
 export default function sitemap(): MetadataRoute.Sitemap {
   const baseUrl = 'https://peptides-guide.com';
@@ -19,6 +20,13 @@ export default function sitemap(): MetadataRoute.Sitemap {
     priority: 0.8,
   }));
 
+  const guideUrls = getAllGuides().map((g) => ({
+    url: `${baseUrl}/guides/${g.slug}`,
+    lastModified: new Date(),
+    changeFrequency: 'monthly' as const,
+    priority: 0.7,
+  }));
+
   return [
     {
       url: baseUrl,
@@ -34,6 +42,7 @@ export default function sitemap(): MetadataRoute.Sitemap {
       changeFrequency: 'monthly',
       priority: 0.7,
     },
+    ...guideUrls,
     {
       url: `${baseUrl}/about`,
       lastModified: new Date(),
